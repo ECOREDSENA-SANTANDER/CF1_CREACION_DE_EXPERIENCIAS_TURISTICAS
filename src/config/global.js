@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Conexiones turísticas - tejiendo experiencias',
+    Description:
+      'Para incursionar en la creación de experiencias turísticas resulta esencial comprender los conceptos que sustentan esta actividad. Esto incluye el análisis de los tipos de turistas, sus motivaciones y características, así como de los servicios turísticos, su funcionamiento y su relevancia en la generación de vivencias significativas. También se consideran las dinámicas del mercado, la cadena de valor, la relación entre oferta y demanda y las tendencias actuales que inciden en los viajes. Estos elementos, junto con la innovación en los servicios y la transformación de los destinos, constituyen la base para diseñar propuestas turísticas pertinentes, sostenibles y acordes con las expectativas del viajero.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Normativa de formalización',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -45,13 +46,19 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Servicios turísticos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Mercado del turismo',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Tendencias en el sector turístico',
         desarrolloContenidos: true,
       },
     ],
