@@ -37,7 +37,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Usuario del turismo',
             hash: 't_1_1',
           },
         ],
