@@ -89,3 +89,31 @@ figcaption
 
 .sliders
   padding: 20px 50px 50px 50px !important
+
+.subt
+  display: flex
+  align-items: center
+  position: relative
+  img
+    width: 70px
+    z-index: 10
+  &::after
+    content: ''
+    position: absolute
+    background-color: #FFD9C5
+    width: 35%
+    height: 80%
+    top: 8px
+    left: 50px
+    z-index: 1
+  h3, img
+    z-index: 999  
+    position: relative
+  @media (max-width: $bp-max-sm)
+    &::after
+      height: 90%
+      top: 2px
+  @media (max-width: $bp-max-xs)
+    &::after
+      height: 95%
+      top: 0px
