@@ -86,7 +86,10 @@ figcaption
   height: 400px
   background-repeat: no-repeat
   border-radius: 20px
-
+  max-width: 100%
+  margin-left: 0
+  margin-right: 0
+  padding: 0
 .sliders
   padding: 20px 50px 50px 50px !important
 
@@ -117,3 +120,61 @@ figcaption
     &::after
       height: 95%
       top: 0px
+.imageslyder
+  background-color: #FFF6F1
+  height: 500px
+  img
+    width: 340px
+    margin-top: 115px
+    margin-left: 50px
+.slyder1
+  background-color: #FFD9C5
+.targetaslyder
+  
+.slyder1 .tarjeta-btn
+  background-color: white
+  transition: all 0.3s ease-out
+  height: 93% !important
+  margin-top: 20px
+  .title
+    background-color: $color-acento-contenido
+    width: fit-content
+    padding: 3px 20px
+    margin: 0 auto  
+.slyder1.slyder-f
+  .slyder-f__slyde
+    width: 50% !important
+    height: 500px
+  @media (max-width: $bp-max-md)
+    .slyder-f__slyde
+      width: 100% !important
+  .tarjeta
+    img
+      width: 90px
+      height: 90px
+      margin: 0 auto
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  color: white
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
+.row.tipoturista .imagenpeq
+    width: 110px
+    height: 110px
+
+.tarjeta.color-adicional-1
+  background-color: $color-adicional-1
+
+.row.tipoturista .fondo
+  background-color: #EFF6FA
+.slyder2 .tarjeta-btn
+  background-color: #DDFAF5
+  transition: all 0.3s ease-out
+  height: 93% !important
+  margin-top: 20px
