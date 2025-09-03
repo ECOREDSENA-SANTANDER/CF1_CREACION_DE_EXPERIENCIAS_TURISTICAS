@@ -127,6 +127,7 @@
           p.mb-2 Por ejemplo, los turistas alocéntricos buscan experiencias auténticas y se adaptan fácilmente al entorno social, cultural y físico del lugar que visitan. En contraste, los turistas hedonistas o de placer priorizan la relajación y la recreación. También se encuentran los turistas peregrinos, cuyo principal interés es cumplir con fines espirituales o religiosos. Comprender estos perfiles resulta fundamental tanto para la industria del turismo como para quienes diseñan servicios y planes de viaje.
         .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0
           img(src='@/assets/curso/tema1/12.png', alt='')
+      .mb-5
       .row
         .col-lg-12
           p.mb-4 La Organización Mundial del Turismo (OMT) clasifica a los turistas con base en los motivos que impulsan sus desplazamientos. A continuación, se describen algunas de las tipologías más comunes :

@@ -48,6 +48,13 @@ export default {
         numero: '2',
         titulo: 'Servicios turísticos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Tipos de servicios turísticos',
+            hash: 't_2_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
