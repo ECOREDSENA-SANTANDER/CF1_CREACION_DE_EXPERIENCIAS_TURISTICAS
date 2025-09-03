@@ -74,6 +74,13 @@ export default {
         numero: '4',
         titulo: 'Tendencias en el sector turístico',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'El futuro de las tendencias',
+            hash: 't_4_1',
+          },
+        ],
       },
     ],
     subMenu: [
