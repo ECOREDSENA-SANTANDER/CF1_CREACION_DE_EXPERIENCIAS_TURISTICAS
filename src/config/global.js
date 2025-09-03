@@ -61,6 +61,13 @@ export default {
         numero: '3',
         titulo: 'Mercado del turismo',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Cadena de valor',
+            hash: 't_3_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',

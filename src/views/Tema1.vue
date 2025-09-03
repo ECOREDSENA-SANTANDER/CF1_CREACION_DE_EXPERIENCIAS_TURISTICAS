@@ -44,7 +44,7 @@
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172558#:~:text=La%20actividad%20tur%C3%ADstica%2C%20conforme%20al,la%20identidad%20cultural%20de%20las%20comunidades." target="_blank")
                   span Ir al sitio
-                  i.fas.fa-file-video
+                  i.fas.fa-circle-play
       separador
 
       #t_1_1.titulo-segundo.mb-5
@@ -220,7 +220,7 @@
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Ri6oC8GEXHM" target="_blank")
                   span Ir al sitio
-                  i.fas.fa-file-video
+                  i.fas.fa-circle-play
     </template>
 
 <script>

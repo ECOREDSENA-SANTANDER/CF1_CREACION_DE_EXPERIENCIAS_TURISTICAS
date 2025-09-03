@@ -106,7 +106,7 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=lIt_vdvmupM&t=350s" target="_blank")
                     span Ir al sitio
-                    i.fas.fa-file-video
+                    i.fas.fa-circle-play
         
 </template>
 
