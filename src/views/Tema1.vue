@@ -7,7 +7,7 @@
           span 1
         h1 Normativa de formalización 
       .row.justify-content-center
-          .col-lg-5.col-md-6.col-9.mb-0.mb-lg-0
+          .col-lg-5.col-md-10.imagetema1
             img(src='@/assets/curso/tema1/1.png', alt='')
           .col-lg-7
             p.mb-4 El turismo desempeña un papel fundamental en el desarrollo económico, social y cultural de los territorios, ya que impulsa la generación de empleo, fomenta la inclusión social y promueve el reconocimiento y la preservación del patrimonio natural y cultural. En Colombia, este sector ha sido objeto de regulación y fortalecimiento normativo con el propósito de garantizar su sostenibilidad, accesibilidad y competitividad. En este contexto, se expide la Ley 2068 de 2020, como una actualización a la Ley General de Turismo, con el fin de responder a los retos actuales y a las nuevas dinámicas del sector.
@@ -54,7 +54,7 @@
           .col-lg-8
             p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
             p.mb-4 Es fundamental señalar que una persona que se traslada de manera frecuente a un mismo lugar no se considera turista, ya que sus desplazamientos hacen parte de una ruta habitual de traslado, incluso si las distancias recorridas son considerables. En estos casos, la motivación y la frecuencia del viaje difieren de los criterios establecidos para clasificar a una persona como turista.
-          .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0
+          .col-lg-4.col-md-10
             img(src='@/assets/curso/tema1/3.png', alt='')
       .mb-5
       .subt.mb-4(data-aos="fade")
@@ -65,9 +65,9 @@
         .col-lg-12
           p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
       .row
-        .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0.imageslyder
-          img(src='@/assets/curso/tema1/5.png', alt='')
-        .col-lg-8.col-md-6.col-9.mb-0.mb-lg-0.targetaslyder
+        .col-lg-4.col-md-0
+          img(src='@/assets/curso/tema1/5.png', alt='').imagehide
+        .col-lg-8.col-md-6.targetaslyder
           SlyderF.slyder1.circl-arrow.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
             .tarjeta.tarjeta-btn.p-4
               img.mb-3(src='@/assets/curso/tema1/6.svg', alt='')
@@ -122,10 +122,10 @@
         .col-lg-8
           p.mb-4 El turismo es una actividad diversa que responde a las distintas motivaciones, intereses y estilos de vida de las personas. Cada viajero posee un perfil propio al momento de desplazarse, lo que enriquece la oferta turística y exige una atención diferenciada por parte de los prestadores de servicios del sector. 
           .d-flex.align-items-center.gap-3.mb-3
-            img(src='@/assets/curso/tema1/13.svg', alt='').imagenpeq 
+            img(src='@/assets/curso/tema1/13.svg', alt='').imagenpeq.imagehide 
             p.mb-0.fondo Existen diferentes tipos de turistas, clasificados según sus preferencias, comportamientos y objetivos de viaje. Reconocer estas tipologías no solo permite personalizar las experiencias, sino que también facilita la planeación y promoción de destinos turísticos más acordes a las expectativas de los visitantes.
           p.mb-2 Por ejemplo, los turistas alocéntricos buscan experiencias auténticas y se adaptan fácilmente al entorno social, cultural y físico del lugar que visitan. En contraste, los turistas hedonistas o de placer priorizan la relajación y la recreación. También se encuentran los turistas peregrinos, cuyo principal interés es cumplir con fines espirituales o religiosos. Comprender estos perfiles resulta fundamental tanto para la industria del turismo como para quienes diseñan servicios y planes de viaje.
-        .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0
+        .col-lg-4.col-md-0
           img(src='@/assets/curso/tema1/12.png', alt='')
       .mb-5
       .row
@@ -133,7 +133,7 @@
           p.mb-4 La Organización Mundial del Turismo (OMT) clasifica a los turistas con base en los motivos que impulsan sus desplazamientos. A continuación, se describen algunas de las tipologías más comunes :
 
       .row
-       .col-lg-12.col-md-6.col-9.mb-0.mb-lg-0.targetaslyder
+       .col-lg-12.col-md-12.targetaslyder
           SlyderF.slyder2.circl-arrow.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4

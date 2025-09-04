@@ -10,7 +10,7 @@
         .col-lg-8
           p.mb-4 Los servicios turísticos representan un componente esencial del sistema turístico, ya que permiten crear experiencias integrales que satisfacen las necesidades, expectativas y motivaciones de los visitantes. Además de su función en la experiencia del turista, estos servicios impulsan la economía regional, generan empleo, dinamizan sectores productivos conexos y fomentan el desarrollo sostenible de los destinos.
           p.mb-4.fondo Se entiende por servicios turísticos el conjunto de actividades, facilidades y recursos que se ofrecen a los turistas para satisfacer sus necesidades durante su desplazamiento y estancia en el destino. Entre los servicios fundamentales se encuentran el alojamiento, la alimentación, el transporte, la guía turística y la animación, los cuales conforman la infraestructura básica sobre la cual se sustenta la actividad turística.
-        .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0
+        .col-lg-4.col-md-12
           img(src='@/assets/curso/tema2/1.png', alt='')  
     .mb-4
     .subt.mb-4(data-aos="fade")
@@ -19,10 +19,10 @@
     .row.caracteristicas
         .col-lg-5.fondo
           p.mb-4 A diferencia de los bienes tangibles que pueden tocarse o evaluarse antes de ser adquiridos, los servicios turísticos se caracterizan por su intangibilidad, lo cual implica que solo pueden ser experimentados en el momento de su prestación. Esto hace que la percepción de calidad dependa directamente de la interacción con el prestador del servicio y de factores como el trato, la atención, la puntualidad y la experiencia vivida.
-        .col-lg-3.col-md-6.col-9.mb-0.mb-lg-0
-          img(src='@/assets/curso/tema2/3.png', alt='')
+        .col-lg-3.col-md-6
+          img(src='@/assets/curso/tema2/3.png', alt='').imagehide
         .col-lg-4.fondocolumna
-          img(src='@/assets/curso/tema2/4.svg', alt='')
+          img(src='@/assets/curso/tema2/4.svg', alt='').imagehide
           p.mb-4 En el contexto turístico, aunque se interactúa con elementos físicos como instalaciones hoteleras, medios de transporte o productos gastronómicos, lo más determinante es la calidad del servicio ofrecido. Por esta razón, muchas empresas del sector capacitan continuamente a su personal, buscando ofrecer experiencias memorables y consistentes.
     .mb-4
     .row

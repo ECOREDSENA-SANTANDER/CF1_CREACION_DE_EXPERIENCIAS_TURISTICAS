@@ -10,7 +10,7 @@
         .col-lg-8
           p.mb-4 Las tendencias en el turismo reflejan la evolución de los comportamientos, motivaciones y preferencias de los viajeros, influenciadas por factores como los avances tecnológicos, los cambios demográficos y socioeconómicos, la conciencia ambiental, las nuevas formas de consumo y la creciente necesidad de personalización de las experiencias. Estas tendencias abarcan desde el auge del turismo sostenible y los viajes de bienestar, hasta la digitalización de los servicios y la demanda por experiencias auténticas e inmersivas.
           p.mb-4.fondoverde Comprender y adaptarse a estas dinámicas resulta fundamental para que los prestadores de servicios turísticos mantengan su competitividad, respondan eficazmente a las expectativas cambiantes del mercado y generen propuestas de valor diferenciadas. Las tendencias no solo marcan el rumbo de la oferta turística, sino que también representan una herramienta estratégica para la innovación y la sostenibilidad del sector.
-        .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0
+        .col-lg-4.col-md-12
           img(src='@/assets/curso/tema4/1.png', alt='')
     .mb-4
     .row
@@ -19,7 +19,7 @@
     .mb-3
     .row.acordeon
         .col-lg-3
-          img(src='@/assets/curso/tema4/2.png', alt='')
+          img(src='@/assets/curso/tema4/2.png', alt='').imagehide
         .col-lg-9.col-md-12.col-sm-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="Posicionamiento en el mercado y  diferenciación de marca")
@@ -45,7 +45,7 @@
 
     .row.tipoturista
         .col-lg-1
-          img(src='@/assets/curso/tema4/3.svg', alt='')
+          img(src='@/assets/curso/tema4/3.svg', alt='').imagehide
         .col-lg-11
           p.mb-4 El futuro del turismo está en constante evolución, marcado por tendencias emergentes y por el cambio en los valores, intereses y comportamientos de los viajeros. La transformación del mercado turístico no solo responde a factores tecnológicos, económicos y demográficos, sino también a una creciente conciencia sobre la sostenibilidad, la salud, la inclusión y la autenticidad. A continuación, se describen algunas de las principales proyecciones y escenarios que probablemente definirán el rumbo del sector en los próximos años :
     .mb-4

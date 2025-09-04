@@ -55,8 +55,17 @@ figcaption
 .barra-avance__boton--regresar span 
     color: white !important
 
-//Tema 1
+// Intro 
+@media (max-width: $bp-max-md)
+  .imageintro
+    img
+      margin-bottom: 20px
+@media (max-width: 767px)
+  .imageintro
+    img
+      margin-bottom: 20px
 
+//Tema 1
 .tarjetaf
   background-color: white
   width: 92%
@@ -65,6 +74,11 @@ figcaption
   background-repeat: no-repeat
   border-radius: 20px
   transition: transform 0.3s ease
+@media (max-width: $bp-max-sm)
+  .tarjetaf
+    width: 80%
+    height: 340px
+    
 .slyder-a__bullets__item 
   background-color: #B0BCF2
   border-color: #B0BCF2
@@ -90,8 +104,15 @@ figcaption
   margin-left: 0
   margin-right: 0
   padding: 0
+@media (max-width: $bp-max-sm)
+  .prinslyder
+    height: 500px
+    background-repeat: round
 .sliders
   padding: 20px 50px 50px 50px !important
+@media (max-width: $bp-max-sm)
+  .sliders
+    padding: 0px !important
 
 .subt
   display: flex
@@ -115,10 +136,12 @@ figcaption
   @media (max-width: $bp-max-sm)
     &::after
       height: 90%
+      width: 450px
       top: 2px
   @media (max-width: $bp-max-xs)
     &::after
       height: 95%
+      width: 260px
       top: 0px
 .imageslyder
   background-color: #FFF6F1
@@ -127,9 +150,15 @@ figcaption
     width: 340px
     margin-top: 115px
     margin-left: 50px
+@media (max-width: $bp-max-sm)
+  .imageslyder
+    height: 500px
+    img
+      width: 340px
+      margin-top: 120px
+      margin-left: 0px
 .slyder1
   background-color: #FFD9C5
-.targetaslyder
   
 .slyder1 .tarjeta-btn
   background-color: white
@@ -184,15 +213,40 @@ figcaption
   height: 93% !important
   margin-top: 20px  
 
+@media (max-width: $bp-max-md)
+  .imagetema1
+    img
+      margin-bottom: 20px
+@media (max-width: 767px)
+  .imagetema1
+    img
+      margin-bottom: 20px
+
 //Tema 2
 .row.servicioturistico .fondo
   background-color: #FFF6F1
   padding: 15px
+@media (max-width: $bp-max-md)
+  .row.servicioturistico .fondo
+    padding: 10px
+@media (max-width: 767px)
+  .row.servicioturistico .fondo
+    padding: 10px
 
 .row.caracteristicas .fondo
   background-color: #EFF6FA
   padding: 25px
   height: 245px
+@media (max-width: $bp-max-md)
+  .row.caracteristicas .fondo
+    padding: 10px
+    height: auto
+    margin-bottom: 10px
+@media (max-width: 767px)
+  .row.caracteristicas .fondo
+    padding: 10px
+    height: auto
+    margin-bottom: 10px
 
 .row.caracteristicas .fondocolumna
   img
@@ -212,6 +266,11 @@ figcaption
   background-color: $color-acento-contenido
   h3
     color: black
+.imagehide
+  @media (max-width: $bp-max-md)
+    display: none
+  @media (max-width: 767px)
+    display: none
 
 //Tema 3
 .row.mercadoturistico .fondo
