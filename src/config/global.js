@@ -307,8 +307,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

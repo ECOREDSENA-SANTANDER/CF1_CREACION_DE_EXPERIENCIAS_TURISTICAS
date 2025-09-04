@@ -208,7 +208,7 @@
       .row
         .col-lg-12
           p.mb-4 Esta clasificación no es excluyente, ya que un mismo turista puede compartir características de diferentes perfiles según el contexto de su viaje. La correcta identificación de estos tipos resulta clave para el diseño de estrategias de marketing, planificación territorial y mejora continua de la oferta turística.
-      .tarjeta.color-adicional-1.p-4.mb-0(data-aos="fade-right")
+      .tarjeta.color-adicional-1.p-4.mb-0
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/tema1/2.svg")
