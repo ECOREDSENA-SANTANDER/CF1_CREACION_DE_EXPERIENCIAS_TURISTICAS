@@ -138,14 +138,122 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Auge',
+      significado:
+        'periodo de crecimiento y prosperidad, donde el turismo alcanza el punto máximo de desarrollo, intensidad o popularidad.',
+    },
+    {
+      termino: 'Conectividad sin fisuras',
+      significado:
+        'facilidad con la que un viajero puede acceder a servicios y herramientas digitales de forma fluida y sin interrupciones.',
+    },
+    {
+      termino: 'Geopolíticas',
+      significado:
+        'factores geográficos, económicos, sociales y culturales en la política y las relaciones internacionales y cómo estos afectan la industria turística, los destinos y los viajeros.',
+    },
+    {
+      termino: 'IDC',
+      significado:
+        'impacto de la Inteligencia Artificial en los negocios digitales en todas partes.',
+    },
+    {
+      termino: 'Marketing turístico',
+      significado:
+        'conjunto de estrategias y actividades utilizadas para promocionar destinos, productos y servicios turísticos, con el objetivo de atraer a más visitantes y generar beneficios para el sector.',
+    },
+    {
+      termino: 'Sostenible',
+      significado:
+        'turismo que tiene en cuenta los impactos actuales y futuros, económicos, sociales y ambientales, para satisfacer las necesidades de los visitantes, la industria, el entorno y las comunidades anfitrionas.',
+    },
+    {
+      termino: 'Tarificación',
+      significado:
+        'proceso de establecer y aplicar precios o tarifas a los productos o servicios turísticos.',
+    },
+    {
+      termino: 'Tecnología blockchain',
+      significado:
+        'el uso de una base de datos descentralizada, inmutable y segura para registrar y gestionar datos relacionados con el sector turístico.',
+    },
+    {
+      termino: 'Tendencias emergentes',
+      significado:
+        'cambios y novedades que están tomando fuerza en la industria, influenciados por factores como la tecnología, el comportamiento del viajero y las nuevas necesidades del mercado.',
+    },
+    {
+      termino: 'Trekking',
+      significado:
+        'actividad que implica caminar largas distancias, generalmente en entornos naturales, a menudo por senderos no marcados o de difícil acceso, y que puede durar varios días.',
+    },
+    {
+      termino: 'Turismo accesible',
+      significado:
+        'modelo de turismo que garantiza la inclusión de personas con discapacidad o movilidad reducida, eliminando barreras físicas, comunicativas y actitudinales en los servicios y destinos turísticos.',
+    },
+    {
+      termino: 'Turismo de bienestar',
+      significado:
+        'modalidad turística orientada al descanso, la salud física y emocional, mediante experiencias como retiros, spas, terapias alternativas y actividades de relajación.',
+    },
+    {
+      termino: 'Turistas alocéntricos',
+      significado:
+        'aquellos que buscan experiencias únicas y auténticas en sus viajes, prefiriendo explorar destinos poco convencionales y actividades fuera de la rutina turística común.',
+    },
+    {
+      termino: 'Turistas hedonistas',
+      significado:
+        'aquellos que buscan principalmente la relajación y el placer en sus viajes.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia: 'Ceupe. (2022). Turista. Ceupe.',
+      link:
+        'https://www.ceupe.com/blog/turista.html#:~:text=Un%20turista%20es%20una%20persona,%2C%20arqueol%C3%B3gico%2C%20religioso%2C%20etc',
+    },
+    {
+      referencia: 'Ceupe. (2022). Servicios turísticos. Ceupe.',
+      link:
+        'https://www.ceupe.com/blog/servicios-turisticos.html#:~:text=Los%20servicios%20tur%C3%ADsticos%20son%20el,%2C%20alimentaci%C3%B3n%2C%20transporte%20y%20gu%C3%ADa',
+    },
+    {
+      referencia:
+        'Elphick, D. (2024). Tendencias en el sector del turismo: Mercado turístico nacional e internacional. SiteMinder.',
+      link:
+        'https://www.siteminder.com/es/r/tendencias-en-el-sector-del-turismo/#-por-qu-estar-al-d-a-de-las-nuevas-tendencias-del-turismo-',
+    },
+    {
+      referencia:
+        'Herrero, B. L. (2024). Tipos de turistas: ¿Cuáles existen? Características. Qamarero.',
+      link:
+        'https://qamarero.com/blog/tipos-de-turistas-cuales-existen-caracteristicas/',
+    },
+    {
+      referencia:
+        'Socatelli P., M. A. (2013). Mercadeo aplicado al turismo: La comercialización de servicios, productos y destinos turísticos sostenibles (pp. 1–4). Intermarck – Consultores en Turismo.',
+      link:
+        'https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.1.pdf',
+    },
+    {
+      referencia:
+        'Staff Entorno Turístico. (2025). Características de los servicios turísticos. Entorno Turístico.',
+      link:
+        'https://www.entornoturistico.com/caracteristicas-de-los-servicios-turisticos/#Intangibles',
+    },
+    {
+      referencia:
+        'Turismo y Sostenibilidad. (2013, octubre 24). Cadena de valor en turismo.',
+      link:
+        'https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/',
+    },
+    {
+      referencia:
+        'Vidal, S., & ILERNA. (2024). Servicios turísticos: Qué son y qué tipos hay (+ ejemplos). Blog ILERNA Online: FP a distancia con titulación oficial.',
+      link:
+        'https://www.ilerna.es/blog/tipos-servicios-turisticos#:~:text=y%20toma%20nota.-,%C2%BFQu%C3%A9%20es%20un%20servicio%20tur%C3%ADstico?,transporte%2C%20gu%C3%ADas%20tur%C3%ADsticas%20y%20m%C3%A1s',
     },
   ],
   creditos: [
