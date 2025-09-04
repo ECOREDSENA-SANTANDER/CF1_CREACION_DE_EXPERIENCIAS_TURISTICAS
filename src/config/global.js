@@ -130,10 +130,26 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'Servicios turísticos',
+      referencia: 'Glosario de términos de turismo | OMT. (s. f.).',
+      tipo: 'Pág. Del organismo especializado de las Naciones Unidas.',
+      link: 'https://www.unwto.org/es/glosario-terminos-turisticos',
+    },
+    {
+      tema: 'Mercado del turismo',
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. Colombia potencia de la vida. Manual de buenas prácticas de turismo responsable.',
+      tipo: 'Manual.',
+      link:
+        'https://portucolombia.mincit.gov.co/portal_turistico_colombia/media/observatorioturistico/Pdf/Manual-de-buenas-practicas-de-Turismo-Responsable.pdf',
+    },
+    {
+      tema: 'Cadena de valor',
+      referencia:
+        'Pulido Fernández. Juan Ignacio (2013). Gestión estratégica sostenible de destinos turísticos. Sevilla. Universidad Internacional de Andalucía.',
+      tipo: 'Libro.',
+      link:
+        'https://dspace.unia.es/bitstream/handle/10334/7894/13_Pulido.pdf?sequence=1&isAllowed=y#:~:text=La%20cadena%20de%20valor%20del%20destino%20tur%C3%ADstico%20se%20puede%20definir,comercio%20electr%C3%B3nico%2D%20y%20los%20turistas',
     },
   ],
   glosario: [
