@@ -65,9 +65,9 @@
         .col-lg-12
           p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
       .row
-        .col-lg-4.col-md-0
-          img(src='@/assets/curso/tema1/5.png', alt='').imagehide
-        .col-lg-8.col-md-6.targetaslyder
+        .col-lg-4.col-md-5.imageslyder.imagehidetema1
+          img(src='@/assets/curso/tema1/5.png', alt='').imagehidetema1
+        .col-lg-8.col-md-7.targetaslyder
           SlyderF.slyder1.circl-arrow.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
             .tarjeta.tarjeta-btn.p-4
               img.mb-3(src='@/assets/curso/tema1/6.svg', alt='')
