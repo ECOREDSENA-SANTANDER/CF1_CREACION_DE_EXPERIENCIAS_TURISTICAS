@@ -50,78 +50,88 @@
           p.mb-4 El futuro del turismo está en constante evolución, marcado por tendencias emergentes y por el cambio en los valores, intereses y comportamientos de los viajeros. La transformación del mercado turístico no solo responde a factores tecnológicos, económicos y demográficos, sino también a una creciente conciencia sobre la sostenibilidad, la salud, la inclusión y la autenticidad. A continuación, se describen algunas de las principales proyecciones y escenarios que probablemente definirán el rumbo del sector en los próximos años :
     .mb-4
     .row.prinslyder.justify-content-center
-        .tarjetaf.p-4.mb-5
+        .tarjeta.p-4.mb-5.tema4
           SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
-            .row.sliders.p-lg-12
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Sostenibilidad como eje central]
-                p.mb-lg-0.mb-4 Con el aumento de la conciencia ambiental y social, el turismo sostenible continuará posicionándose como una prioridad. Se espera que los viajeros opten cada vez más por alojamientos ecológicos, medios de transporte con bajas emisiones de carbono, y experiencias que generen un impacto positivo en los ecosistemas y en las comunidades locales. Esta tendencia también impulsa la economía circular, el consumo responsable y el respeto por la identidad cultural de los destinos
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Sostenibilidad como eje central]
+                p Con el aumento de la conciencia ambiental y social, el turismo sostenible continuará posicionándose como una prioridad. Se espera que los viajeros opten cada vez más por alojamientos ecológicos, medios de transporte con bajas emisiones de carbono, y experiencias que generen un impacto positivo en los ecosistemas y en las comunidades locales. Esta tendencia también impulsa la economía circular, el consumo responsable y el respeto por la identidad cultural de los destinos
               .col-lg-4
-                img(src='@/assets/curso/tema4/4.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/4.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Transformación digital y tecnología inteligente]
-                p.mb-lg-0.mb-4 La integración de tecnologías avanzadas como la Inteligencia Artificial (IA), la realidad aumentada y virtual, el internet of Things (IoT) y la tecnología blockchain revolucionará la forma de planear, gestionar y disfrutar los viajes. Estas herramientas permitirán el diseño de itinerarios personalizados, reservas automatizadas, asistencia digital en tiempo real, recorridos virtuales y programas de fidelización seguros y transparentes. La digitalización también mejora la eficiencia operativa y permite recopilar datos para adaptar mejor la oferta a la demanda.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Transformación digital y tecnología inteligente]
+                p La integración de tecnologías avanzadas como la Inteligencia Artificial (IA), la realidad aumentada y virtual, el internet of Things (IoT) y la tecnología blockchain revolucionará la forma de planear, gestionar y disfrutar los viajes. Estas herramientas permitirán el diseño de itinerarios personalizados, reservas automatizadas, asistencia digital en tiempo real, recorridos virtuales y programas de fidelización seguros y transparentes. La digitalización también mejora la eficiencia operativa y permite recopilar datos para adaptar mejor la oferta a la demanda.
               .col-lg-4
-                img(src='@/assets/curso/tema4/5.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                 img(src='@/assets/curso/tema4/5.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Búsqueda de experiencias auténticas]
-                p.mb-lg-0.mb-4 El turismo dejará de centrarse exclusivamente en la visita de lugares emblemáticos para enfocarse en vivencias únicas, inmersivas y personalizadas. Los viajeros valorarán cada vez más el contacto genuino con las comunidades locales, la participación en actividades tradicionales, la gastronomía autóctona y los entornos no masificados. Esta tendencia se traduce en el crecimiento del turismo rural, el turismo creativo, el etnoturismo y otras formas de viaje alternativo.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Búsqueda de experiencias auténticas]
+                p El turismo dejará de centrarse exclusivamente en la visita de lugares emblemáticos para enfocarse en vivencias únicas, inmersivas y personalizadas. Los viajeros valorarán cada vez más el contacto genuino con las comunidades locales, la participación en actividades tradicionales, la gastronomía autóctona y los entornos no masificados. Esta tendencia se traduce en el crecimiento del turismo rural, el turismo creativo, el etnoturismo y otras formas de viaje alternativo.
               .col-lg-4
-                img(src='@/assets/curso/tema4/6.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/6.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Turismo de salud y bienestar]
-                p.mb-lg-0.mb-4 La preocupación por el bienestar físico y emocional ha dado lugar a un auge del turismo de salud, que incluye retiros de bienestar, spas, tratamientos terapéuticos, actividades de conexión con la naturaleza, programas de alimentación saludable y estilos de vida conscientes. Los destinos que ofrezcan este tipo de experiencias integrales atraerán a una creciente población que prioriza el equilibrio entre cuerpo, mente y entorno.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Turismo de salud y bienestar]
+                p La preocupación por el bienestar físico y emocional ha dado lugar a un auge del turismo de salud, que incluye retiros de bienestar, spas, tratamientos terapéuticos, actividades de conexión con la naturaleza, programas de alimentación saludable y estilos de vida conscientes. Los destinos que ofrezcan este tipo de experiencias integrales atraerán a una creciente población que prioriza el equilibrio entre cuerpo, mente y entorno.
               .col-lg-4
-                img(src='@/assets/curso/tema4/7.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/7.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Fusión entre viajes de negocios y ocio (bleisure)]
-                p.mb-lg-0.mb-4 Con la consolidación del trabajo remoto y los modelos laborales híbridos, se incrementa la combinación de viajes de negocios con actividades de ocio. Este tipo de viajero busca destinos que ofrezcan conectividad, infraestructura para el trabajo a distancia, y oportunidades de descanso y exploración. El concepto de “bleisure” (business + leisure) promueve estancias más largas y una mayor derrama económica en los destinos.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Fusión entre viajes de negocios y ocio (bleisure)]
+                p Con la consolidación del trabajo remoto y los modelos laborales híbridos, se incrementa la combinación de viajes de negocios con actividades de ocio. Este tipo de viajero busca destinos que ofrezcan conectividad, infraestructura para el trabajo a distancia, y oportunidades de descanso y exploración. El concepto de “bleisure” (business + leisure) promueve estancias más largas y una mayor derrama económica en los destinos.
               .col-lg-4
-                img(src='@/assets/curso/tema4/8.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/8.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Microvacaciones y viajes de cercanía]
-                p.mb-lg-0.mb-4 Se observa una creciente preferencia por los viajes breves y frecuentes, conocidos como microvacaciones, así como por los desplazamientos a destinos cercanos o dentro del mismo país (staycations). Esta tendencia responde a la búsqueda de descanso rápido, la optimización del tiempo libre y el deseo de evitar largas distancias, especialmente en contextos de incertidumbre o restricciones sanitarias.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Microvacaciones y viajes de cercanía]
+                p Se observa una creciente preferencia por los viajes breves y frecuentes, conocidos como microvacaciones, así como por los desplazamientos a destinos cercanos o dentro del mismo país (staycations). Esta tendencia responde a la búsqueda de descanso rápido, la optimización del tiempo libre y el deseo de evitar largas distancias, especialmente en contextos de incertidumbre o restricciones sanitarias.
               .col-lg-4
-                img(src='@/assets/curso/tema4/9.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/9.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Nomadismo digital]
-                p.mb-lg-0.mb-4 El auge del trabajo remoto ha dado lugar a un nuevo perfil de viajero: el nómada digital. Este público busca destinos con buena conectividad, infraestructura flexible, servicios de larga estancia y visados especiales. Las ciudades y regiones que ofrezcan condiciones favorables para esta modalidad atraerán a una nueva oleada de visitantes que combinan productividad con exploración cultural.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Nomadismo digital]
+                p El auge del trabajo remoto ha dado lugar a un nuevo perfil de viajero: el nómada digital. Este público busca destinos con buena conectividad, infraestructura flexible, servicios de larga estancia y visados especiales. Las ciudades y regiones que ofrezcan condiciones favorables para esta modalidad atraerán a una nueva oleada de visitantes que combinan productividad con exploración cultural.
               .col-lg-4
-                img(src='@/assets/curso/tema4/10.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/10.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Turismo accesible e inclusivo]
-                p.mb-lg-0.mb-4 El turismo del futuro deberá ser más inclusivo, eliminando barreras físicas, comunicativas y actitudinales para garantizar la plena participación de personas con discapacidad, personas mayores o con necesidades específicas de accesibilidad. Esto implica adaptar alojamientos, transportes, sitios turísticos y servicios para asegurar una experiencia digna, segura y universal para todos.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Turismo accesible e inclusivo]
+                p El turismo del futuro deberá ser más inclusivo, eliminando barreras físicas, comunicativas y actitudinales para garantizar la plena participación de personas con discapacidad, personas mayores o con necesidades específicas de accesibilidad. Esto implica adaptar alojamientos, transportes, sitios turísticos y servicios para asegurar una experiencia digna, segura y universal para todos.
               .col-lg-4
-                img(src='@/assets/curso/tema4/11.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/11.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Conservación cultural y patrimonial]
-                p.mb-lg-0.mb-4 El respeto y la preservación del patrimonio cultural e histórico ganarán relevancia. Se espera un incremento en los viajes educativos, en la participación en programas de conservación, y en la oferta de actividades que promuevan el conocimiento y la valoración de las culturas locales, sus lenguas, prácticas ancestrales y expresiones artísticas.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Conservación cultural y patrimonial]
+                p El respeto y la preservación del patrimonio cultural e histórico ganarán relevancia. Se espera un incremento en los viajes educativos, en la participación en programas de conservación, y en la oferta de actividades que promuevan el conocimiento y la valoración de las culturas locales, sus lenguas, prácticas ancestrales y expresiones artísticas.
               .col-lg-4
-                img(src='@/assets/curso/tema4/12.png', alt='')
-            .row.sliders.p-lg-12
+                figure
+                  img(src='@/assets/curso/tema4/12.png', alt='')
+            .row
               .col-lg-1
-              .col-lg-6
-                p.mb-lg-0.mb-4 #[strong Seguridad, salud y resiliencia]
-                p.mb-lg-0.mb-4 Frente a desafíos globales como pandemias, catástrofes naturales o conflictos geopolíticos, los turistas priorizarán destinos que ofrezcan infraestructura sanitaria confiable, protocolos de bioseguridad, entornos estables y servicios de asistencia al viajero. La gestión de riesgos y la comunicación transparente serán factores clave para la recuperación y sostenibilidad de los destinos.
+              .col-lg-6.mb-4.mb-md-0
+                p #[strong Seguridad, salud y resiliencia]
+                p Frente a desafíos globales como pandemias, catástrofes naturales o conflictos geopolíticos, los turistas priorizarán destinos que ofrezcan infraestructura sanitaria confiable, protocolos de bioseguridad, entornos estables y servicios de asistencia al viajero. La gestión de riesgos y la comunicación transparente serán factores clave para la recuperación y sostenibilidad de los destinos.
               .col-lg-4
-                img(src='@/assets/curso/tema4/13.png', alt='')
+                figure
+                  img(src='@/assets/curso/tema4/13.png', alt='')
     .row.tituloperfil
       .col-lg-12
         .subt.mb-4(data-aos="fade")

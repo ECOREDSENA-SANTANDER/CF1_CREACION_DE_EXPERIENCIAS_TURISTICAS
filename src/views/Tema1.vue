@@ -14,7 +14,7 @@
             p.mb-4 La Ley 2068 de 2020, que modifica la Ley 300 de 1996 (Ley General de Turismo) y dicta otras disposiciones, establece en su Capítulo I los elementos fundamentales relacionados con el objeto y los principios de la actividad turística.
       .mb-5
       .row.prinslyder.justify-content-center
-        .tarjetaf.p-4.mb-5
+        .tarjeta.tema1
           SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
             .row.sliders.p-lg-12
               .col-lg-12
