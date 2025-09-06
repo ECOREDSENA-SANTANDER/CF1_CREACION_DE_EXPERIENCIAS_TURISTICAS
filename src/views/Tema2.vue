@@ -94,7 +94,7 @@
         .mb-4
         .col-lg-12
           p.mb-4 Los principales tipos de servicios turísticos se clasifican en las siguientes categorías :
-        .tarjeta.color-adicional-1.p-4.mb-0(data-aos="fade-right")
+        .tarjeta.color-adicional-1.p-4.mb-0
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/tema2/9.svg")
