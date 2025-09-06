@@ -47,7 +47,7 @@
                   i.fas.fa-circle-play
       separador
 
-      #t_1_1.titulo-segundo.mb-5
+      #t_1_1.titulo-segundo.color-acento-contenido.mb-5
         h2 1.1 Usuario del turismo    
       
       .row.justify-content-center
