@@ -40,7 +40,7 @@
                   p.mb-0 La adopción de tendencias tecnológicas también impacta positivamente en la eficiencia operativa, mediante sistemas de reservas automatizados, plataformas de gestión de servicios, herramientas de análisis de datos y soluciones para el control del consumo energético y de residuos. Estas innovaciones permiten reducir costos operativos, optimizar recursos y mejorar el cumplimiento de normativas ambientales y de calidad. En paralelo, la integración de prácticas de turismo responsable y sostenible atiende a una creciente demanda por parte del mercado y fortalece la reputación del destino como actor comprometido con el desarrollo territorial, la conservación del entorno y el respeto por las comunidades locales.
     separador
 
-    #t_4_1.titulo-segundo.mb-5
+    #t_4_1.titulo-segundo.color-acento-contenido.mb-5
       h2 4.1 El futuro de las tendencias en el sector del turismo y en el mercado turístico      
 
     .row.tipoturista

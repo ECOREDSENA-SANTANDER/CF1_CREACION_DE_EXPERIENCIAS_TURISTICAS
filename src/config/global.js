@@ -77,7 +77,8 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'El futuro de las tendencias',
+            titulo:
+              'El futuro de las tendencias en el sector del turismo y en el mercado turístico',
             hash: 't_4_1',
           },
         ],

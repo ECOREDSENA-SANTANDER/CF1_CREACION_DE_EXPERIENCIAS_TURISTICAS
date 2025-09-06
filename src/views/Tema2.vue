@@ -50,7 +50,7 @@
         .col-lg-1.fondocolumna
     separador
 
-    #t_2_1.titulo-segundo.mb-5
+    #t_2_1.titulo-segundo.color-acento-contenido.mb-5
       h2 2.1 Tipos de servicios turísticos 
     .row
         .col-lg-12

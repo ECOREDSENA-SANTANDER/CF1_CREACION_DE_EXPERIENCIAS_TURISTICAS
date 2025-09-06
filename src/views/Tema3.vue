@@ -57,7 +57,7 @@
       .row.sistema
         .col-lg-1
         .col-lg-10.col-md-12
-          p.mb-4 #[strong Figura 1.] Sistema turístico 
+          p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 1.] Sistema turístico 
           img(src='@/assets/curso/tema3/7.png', alt='')
       .mb-5
       .row.tipoturista
@@ -90,7 +90,7 @@
                   i.fas.fa-globe
       separador
 
-      #t_3_1.titulo-segundo.mb-5
+      #t_3_1.titulo-segundo.color-acento-contenido.mb-5
         h2 3.1 Cadena de valor
       
       .row
@@ -101,7 +101,7 @@
       
       .row
         .col-lg-12.col-md-12
-          p.mb-4 #[strong Figura 2.] Sistema turístico 
+          p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 2.] Sistema turístico 
           img(src='@/assets/curso/tema3/12.png', alt='')
       .mb-5
       .row.mercadoturistico
@@ -127,7 +127,7 @@
       .row.sistema
         .col-lg-1
         .col-lg-10
-          p.mb-4 #[strong Figura 3.] Cadena de valor en turismo  
+          p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 3.] Cadena de valor en turismo  
           img(src='@/assets/curso/tema3/15.png', alt='')
       .mb-5
       .tarjeta.color-adicional-1.p-4.mb-0(data-aos="fade-right")
