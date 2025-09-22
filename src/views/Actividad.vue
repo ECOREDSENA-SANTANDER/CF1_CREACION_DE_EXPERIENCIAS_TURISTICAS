@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del CF',
-      titulo: 'Ronda de preguntas',
+      tema: 'Conexiones turísticas – tejiendo experiencias.',
+      titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales del componente formativo Conexiones turísticas – tejiendo experiencias.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del componente formativo Conexiones turísticas – tejiendo experiencias.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -30,7 +30,7 @@ export default {
           texto:
             'El artículo 3 de la Ley 1558 de 2012 indica que son principios rectores de la actividad turística: desarrollo social, económico y cultural, desarrollo sostenible y Accesibilidad universal.',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -53,7 +53,7 @@ export default {
           texto:
             'Se considera turista a la persona que viaja recurrentemente hacia un sitio.',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -76,7 +76,7 @@ export default {
           texto:
             'Una de las características del turista es que define su destino y el motivo de viaje.',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -99,7 +99,7 @@ export default {
           texto:
             'Los tipos de turistas ecológicos buscan actividades de aventura con emociones fuertes y desafíos.',
           imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -122,7 +122,7 @@ export default {
           texto:
             'Los tipos de turistas arqueológicos se caracterizan por buscar actividades que contemplen y estudien los elementos arqueológicos de un sitio turístico.',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -145,7 +145,7 @@ export default {
           texto:
             'Los servicios turísticos se caracterizan por ser tangibles, es decir que se pueden tocar, oler, sentir antes de su compra.',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -168,7 +168,7 @@ export default {
           texto:
             'Los tipos de servicios turísticos que un destino puede ofrecer son: transporte, alojamiento, alimentación, guía turístico y animación turística.',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -191,7 +191,7 @@ export default {
           texto:
             'Según la OMT el sistema turístico está compuesto por 4 elementos que son: la demanda, la oferta, el espacio geográfico y los operadores del mercado.',
           imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -214,7 +214,7 @@ export default {
           texto:
             'La cadena de valor hace referencia al espacio geográfico donde funciona la oferta y la demanda.',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -237,7 +237,7 @@ export default {
           texto:
             'Estar al día en las tendencias en el sector del turismo es importante en la experiencia del turista  y la satisfacción del mismo.',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',

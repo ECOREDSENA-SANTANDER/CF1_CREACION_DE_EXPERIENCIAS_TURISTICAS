@@ -4,7 +4,7 @@ export default {
     Description:
       'Para incursionar en la creación de experiencias turísticas resulta esencial comprender los conceptos que sustentan esta actividad. Esto incluye el análisis de los tipos de turistas, sus motivaciones y características, así como de los servicios turísticos, su funcionamiento y su relevancia en la generación de vivencias significativas. También se consideran las dinámicas del mercado, la cadena de valor, la relación entre oferta y demanda y las tendencias actuales que inciden en los viajes. Estos elementos, junto con la innovación en los servicios y la transformación de los destinos, constituyen la base para diseñar propuestas turísticas pertinentes, sostenibles y acordes con las expectativas del viajero.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

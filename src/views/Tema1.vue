@@ -13,24 +13,28 @@
             p.mb-4 El turismo desempeña un papel fundamental en el desarrollo económico, social y cultural de los territorios, ya que impulsa la generación de empleo, fomenta la inclusión social y promueve el reconocimiento y la preservación del patrimonio natural y cultural. En Colombia, este sector ha sido objeto de regulación y fortalecimiento normativo con el propósito de garantizar su sostenibilidad, accesibilidad y competitividad. En este contexto, se expide la Ley 2068 de 2020, como una actualización a la Ley General de Turismo, con el fin de responder a los retos actuales y a las nuevas dinámicas del sector.
             p.mb-4 La Ley 2068 de 2020, que modifica la Ley 300 de 1996 (Ley General de Turismo) y dicta otras disposiciones, establece en su Capítulo I los elementos fundamentales relacionados con el objeto y los principios de la actividad turística.
       .mb-5
-      .row.prinslyder.justify-content-center
-        .tarjeta.tema1
-          SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
-            .row.sliders.p-lg-12.justify-content-center
-              .col-lg-11.justify-content-center
-                p.mb-lg-0.mb-4 #[strong Artículo 1:] esta ley tiene como propósito fomentar la sostenibilidad del turismo mediante la  implementación de mecanismos orientados a la conservación, protección y aprovechamiento responsable de los destinos y atractivos turísticos. Además, busca fortalecer la formalización y competitividad del sector, así como promover la recuperación de la industria turística. Lo anterior se materializa a través de incentivos, el mejoramiento de la calidad y la adopción de medidas que impulsen la transformación y expansión de oportunidades en el sector turístico.
-            .row.sliders.p-lg-12.justify-content-center
-              .col-lg-11
-                p.mb-lg-0.mb-4 #[strong Artículo 2:] la Ley 2068 de 2020 introduce modificaciones importantes al artículo 2 de la Ley 300 de 1996, el cual ya había sido reformado por el artículo 3 de la Ley 1558 de 2012. Esta nueva actualización modifica los numerales 8 y 9, y adiciona el numeral 12, con el objetivo de fortalecer los principios rectores de la actividad turística en Colombia. Las modificaciones integran enfoques que reconocen al turismo como una actividad estratégica para el desarrollo social, económico y cultural, comprometida con la sostenibilidad y la inclusión universal, alineándose con los mandatos constitucionales y las demandas actuales del sector.
-            .row.sliders.p-lg-12.justify-content-center
-              .col-lg-11
-                p.mb-lg-0.mb-4 #[strong Numeral 8:] desarrollo social, económico y cultural, establece que la actividad turística, en concordancia con el artículo 52 de la Constitución Política, es un derecho social y económico que contribuye al desarrollo integral de las personas, los seres sintientes, los territorios y las comunidades. Esta actividad fomenta el uso adecuado del tiempo libre, fortalece la identidad cultural de las comunidades y debe llevarse a cabo bajo el principio de que todos los seres humanos y sintientes tienen derecho a una vida saludable y productiva en armonía con la naturaleza.
-            .row.sliders.p-lg-12.justify-content-center
-              .col-lg-11
-                p.mb-lg-0.mb-4 #[strong Numeral 9:] desarrollo sostenible, ratifica que el turismo, como derecho social, debe contribuir al bienestar de las personas y desarrollarse en observancia de los principios del desarrollo sostenible establecidos en el artículo 3 de la Ley 99 de 1993, o en la norma que la modifique o sustituya. La actividad turística debe promover la conservación e integración del patrimonio cultural, natural y social, orientándose al mejoramiento de la calidad de vida de la población, especialmente de las comunidades receptoras. Asimismo, debe propiciar el bienestar social, el crecimiento económico, la satisfacción del visitante y la protección de los recursos naturales, evitando su agotamiento, el deterioro ambiental y cualquier afectación a los derechos de las generaciones futuras.
-            .row.sliders.p-lg-12.justify-content-center
-              .col-lg-11.justify-content-center
-                p.mb-lg-0.mb-4 #[strong Numeral 12:] accesibilidad universal, establece que, en cumplimiento del artículo 13 de la Constitución Política, los destinos turísticos, los administradores de atractivos y los prestadores de servicios turísticos tienen la obligación de eliminar las barreras físicas, espaciales, comunicativas, actitudinales y de servicio que impidan el acceso, uso y disfrute del turismo de manera segura y confortable. Se deben aplicar los principios del diseño universal y realizar los ajustes razonables que aseguren una experiencia turística inclusiva para todas las personas, especialmente aquellas con discapacidad o con necesidades particulares de accesibilidad, promoviendo la igualdad de condiciones y oportunidades.
+      
+      .row.fondo2.p-4.p-lg-5.p-md-4.mb-5(data-aos="fade-down")
+        .col-lg-12
+  
+          .tarjetap.p-4.mb-0
+            SlyderA(tipo="b")(data-aos="zoom-in-left")
+              .row.justify-content-center.align-items-center.p-0.p-lg-4
+                .col-lg-12
+                  p.mb-lg-0.mb-4 #[strong Artículo 1:] esta ley tiene como propósito fomentar la sostenibilidad del turismo mediante la  implementación de mecanismos orientados a la conservación, protección y aprovechamiento responsable de los destinos y atractivos turísticos. Además, busca fortalecer la formalización y competitividad del sector, así como promover la recuperación de la industria turística. Lo anterior se materializa a través de incentivos, el mejoramiento de la calidad y la adopción de medidas que impulsen la transformación y expansión de oportunidades en el sector turístico.
+              .row.justify-content-center.align-items.p-0.p-lg-4
+                .col-lg-12
+                  p.mb-lg-0.mb-4 #[strong Artículo 2:] la Ley 2068 de 2020 introduce modificaciones importantes al artículo 2 de la Ley 300 de 1996, el cual ya había sido reformado por el artículo 3 de la Ley 1558 de 2012. Esta nueva actualización modifica los numerales 8 y 9, y adiciona el numeral 12, con el objetivo de fortalecer los principios rectores de la actividad turística en Colombia. Las modificaciones integran enfoques que reconocen al turismo como una actividad estratégica para el desarrollo social, económico y cultural, comprometida con la sostenibilidad y la inclusión universal, alineándose con los mandatos constitucionales y las demandas actuales del sector.
+              .row.justify-content-center.align-items.p-0.p-lg-4
+                .col-lg-12
+                  p.mb-lg-0.mb-4 #[strong Numeral 8:] desarrollo social, económico y cultural, establece que la actividad turística, en concordancia con el artículo 52 de la Constitución Política, es un derecho social y económico que contribuye al desarrollo integral de las personas, los seres sintientes, los territorios y las comunidades. Esta actividad fomenta el uso adecuado del tiempo libre, fortalece la identidad cultural de las comunidades y debe llevarse a cabo bajo el principio de que todos los seres humanos y sintientes tienen derecho a una vida saludable y productiva en armonía con la naturaleza.
+              .row.justify-content-center.align-items.p-0.p-lg-4
+                .col-lg-12
+                  p.mb-lg-0.mb-4 #[strong Numeral 9:] desarrollo sostenible, ratifica que el turismo, como derecho social, debe contribuir al bienestar de las personas y desarrollarse en observancia de los principios del desarrollo sostenible establecidos en el artículo 3 de la Ley 99 de 1993, o en la norma que la modifique o sustituya. La actividad turística debe promover la conservación e integración del patrimonio cultural, natural y social, orientándose al mejoramiento de la calidad de vida de la población, especialmente de las comunidades receptoras. Asimismo, debe propiciar el bienestar social, el crecimiento económico, la satisfacción del visitante y la protección de los recursos naturales, evitando su agotamiento, el deterioro ambiental y cualquier afectación a los derechos de las generaciones futuras.
+              .row.justify-content-center.align-items.p-0.p-lg-4
+                .col-lg-12
+                  p.mb-lg-0.mb-4 #[strong Numeral 12:] accesibilidad universal, establece que, en cumplimiento del artículo 13 de la Constitución Política, los destinos turísticos, los administradores de atractivos y los prestadores de servicios turísticos tienen la obligación de eliminar las barreras físicas, espaciales, comunicativas, actitudinales y de servicio que impidan el acceso, uso y disfrute del turismo de manera segura y confortable. Se deben aplicar los principios del diseño universal y realizar los ajustes razonables que aseguren una experiencia turística inclusiva para todas las personas, especialmente aquellas con discapacidad o con necesidades particulares de accesibilidad, promoviendo la igualdad de condiciones y oportunidades.
+      
       .mb-5
       .tarjeta.color-adicional-1.p-4.mb-0(data-aos="fade-right")
         .row.justify-content-around.align-items-center
@@ -64,53 +68,58 @@
       .row
         .col-lg-12
           p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
-      .row
-        .col-lg-4.col-md-5.imageslyder.imagehidetema1
-          img(src='@/assets/curso/tema1/5.png', alt='').imagehidetema1
-        .col-lg-8.col-md-7.targetaslyder
-          SlyderF.slyder1.circl-arrow.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
-            .tarjeta.tarjeta-btn.p-4
-              img.mb-3(src='@/assets/curso/tema1/6.svg', alt='')
-              .title.mb-4
-                h4.text-center.mb-0 Desplazamiento temporal
-              .row.justify-content-center.align-items-center.mb-2
-                .col-lg-12
-                  p.text-center El turista se traslada a un lugar distinto de su residencia habitual por un período que supera las 24 horas e inferior a seis meses consecutivos, sin establecer residencia permanente ni realizar actividades remuneradas en el lugar visitado.
-            .tarjeta.tarjeta-btn.p-4
-              img.mb-3(src='@/assets/curso/tema1/7.svg', alt='')
-              .title.mb-4
-                h4.text-center.mb-0 Desplazamiento temporal
-              .row.justify-content-center.align-items-center.mb-2
-                .col-lg-12
-                  p.text-center Los motivos de viaje son variados e incluyen el ocio, la recreación, la cultura, la salud, los negocios, la religión, el deporte, la educación, entre otros, lo que da origen a múltiples tipologías de turismo como el ecoturismo, turismo de salud, turismo gastronómico, turismo religioso, entre otros.
-            .tarjeta.tarjeta-btn.p-4
-              img.mb-3(src='@/assets/curso/tema1/8.svg', alt='')
-              .title.mb-4
-                h4.text-center.mb-0 Consumo de productos y servicios turísticos 
-              .row.justify-content-center.align-items-center.mb-2
-                .col-lg-12
-                  p.text-center El turista es el consumidor final de bienes y servicios turísticos, como transporte, alojamiento, alimentación, actividades recreativas, visitas guiadas y experiencias culturales.
-            .tarjeta.tarjeta-btn.p-4
-              img.mb-3(src='@/assets/curso/tema1/9.svg', alt='')
-              .title.mb-4
-                h4.text-center.mb-0 Decisión autónoma del destino 
-              .row.justify-content-center.align-items-center.mb-2
-                .col-lg-12
-                  p.text-center Define libremente el destino y propósito del viaje, planificando su recorrido, los lugares a visitar y las actividades a realizar, ya sea de forma independiente o con apoyo de agencias especializadas.
-            .tarjeta.tarjeta-btn.p-4
-              img.mb-3(src='@/assets/curso/tema1/10.svg', alt='')
-              .title.mb-4
-                h4.text-center.mb-0 Duración definida de la estadía 
-              .row.justify-content-center.align-items-center.mb-2
-                .col-lg-12
-                  p.text-center La permanencia del turista en el lugar de destino tiene una duración previamente establecida, sin intención de fijar residencia en el sitio visitado.
-            .tarjeta.tarjeta-btn.p-4
-              img.mb-3(src='@/assets/curso/tema1/11.svg', alt='')
-              .title.mb-4
-                h4.text-center.mb-0 Uso de servicios de hospedaje 
-              .row.justify-content-center.align-items-center.mb-2
-                .col-lg-12
-                  p.text-center Durante su estadía, el turista hace uso de algún tipo de alojamiento temporal, ya sea en hoteles, hostales, viviendas turísticas, casas de familiares o amigos, entre otros.
+      
+      .row.fndd.p-4.p-lg-5.p-md-3.mb-5(data-aos="fade-down")
+        .col-lg-12
+          
+          .row.justify-content-center.align-items-end.mb-0(data-aos="fade-left")
+            .col-lg-4.col-md-5.col-7
+              img.img-t.d-none.d-lg-block.mva(src='@/assets/curso/tema1/5.png', alt='')
+            .col-lg-8.mb-lg-0.mb-4
+              SlyderF(columnas="col-lg-6 col-md-6 col-xl-6")
+                .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
+                  .row.justify-content-center.mb-3
+                    .col-9.my-4
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      .bg3.p-1.mb-0
+                        h5.text-center.mb-0.my-1.ps-2.pe-2 Desplazamiento temporal
+                  p.mb-0.text-center(data-aos="fade-right") El turista se traslada a un lugar distinto de su residencia habitual por un período que supera las 24 horas e inferior a seis meses consecutivos, sin establecer residencia permanente ni realizar actividades remuneradas en el lugar visitado.
+                .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
+                  .row.justify-content-center.mb-3
+                    .col-9.my-4
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      .bg3.p-1.mb-0
+                        h5.text-center.mb-0.my-1.ps-2.pe-2 Desplazamiento temporal
+                  p.mb-0.text-center(data-aos="fade-right") Los motivos de viaje son variados e incluyen el ocio, la recreación, la cultura, la salud, los negocios, la religión, el deporte, la educación, entre otros, lo que da origen a múltiples tipologías de turismo como el ecoturismo, turismo de salud, turismo gastronómico, turismo religioso, entre otros.
+                .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
+                  .row.justify-content-center.mb-3
+                    .col-9.my-4
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      .bg3.p-1.mb-0
+                        h5.text-center.mb-0.my-1.ps-2.pe-2 Consumo de productos y servicios turísticos
+                  p.mb-0.text-center(data-aos="fade-right") El turista es el consumidor final de bienes y servicios turísticos, como transporte, alojamiento, alimentación, actividades recreativas, visitas guiadas y experiencias culturales.
+                .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
+                  .row.justify-content-center.mb-3
+                    .col-9.my-4
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      .bg3.p-1.mb-0
+                        h5.text-center.mb-0.my-1.ps-2.pe-2 Decisión autónoma del destino 
+                  p.mb-0.text-center(data-aos="fade-right") Define libremente el destino y propósito del viaje, planificando su recorrido, los lugares a visitar y las actividades a realizar, ya sea de forma independiente o con apoyo de agencias especializadas.
+                .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
+                  .row.justify-content-center.mb-3
+                    .col-9.my-4
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      .bg3.p-1.mb-0
+                        h5.text-center.mb-0.my-1.ps-2.pe-2 Duración definida de la estadía
+                  p.mb-0.text-center(data-aos="fade-right") La permanencia del turista en el lugar de destino tiene una duración previamente establecida, sin intención de fijar residencia en el sitio visitado.
+                .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
+                  .row.justify-content-center.mb-3
+                    .col-9.my-4
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      .bg3.p-1.mb-0
+                        h5.text-center.mb-0.my-1.ps-2.pe-2 Uso de servicios de hospedaje 
+                  p.mb-0.text-center(data-aos="fade-right") Durante su estadía, el turista hace uso de algún tipo de alojamiento temporal, ya sea en hoteles, hostales, viviendas turísticas, casas de familiares o amigos, entre otros.
+
       .row
         .col-lg-12
           p.mb-4 Estas características se enmarcan en los criterios establecidos por organismos internacionales como la Organización Mundial del Turismo (OMT), que busca estandarizar la definición y clasificación del turista para facilitar el análisis del comportamiento de la demanda turística y la formulación de políticas públicas en el sector.
@@ -125,16 +134,16 @@
             img(src='@/assets/curso/tema1/13.svg', alt='').imagenpeq.imagehide 
             p.mb-0.fondo Existen diferentes tipos de turistas, clasificados según sus preferencias, comportamientos y objetivos de viaje. Reconocer estas tipologías no solo permite personalizar las experiencias, sino que también facilita la planeación y promoción de destinos turísticos más acordes a las expectativas de los visitantes.
           p.mb-2 Por ejemplo, los turistas alocéntricos buscan experiencias auténticas y se adaptan fácilmente al entorno social, cultural y físico del lugar que visitan. En contraste, los turistas hedonistas o de placer priorizan la relajación y la recreación. También se encuentran los turistas peregrinos, cuyo principal interés es cumplir con fines espirituales o religiosos. Comprender estos perfiles resulta fundamental tanto para la industria del turismo como para quienes diseñan servicios y planes de viaje.
-        .col-lg-4.col-md-0
-          img(src='@/assets/curso/tema1/12.png', alt='')
-      .mb-5
+        .col-lg-4
+          img.d-none.d-lg-block.mb-lg-4(src='@/assets/curso/tema1/12.png', alt='')
+      .mb-2
       .row
         .col-lg-12
           p.mb-4 La Organización Mundial del Turismo (OMT) clasifica a los turistas con base en los motivos que impulsan sus desplazamientos. A continuación, se describen algunas de las tipologías más comunes :
 
       .row
        .col-lg-12.col-md-12.targetaslyder
-          SlyderF.slyder2.circl-arrow.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
+          SlyderF.slyder2.circl-arrow.mb-5(columnas="col-lg-6 col-md-6 col-xl-4")(data-aos="fade-left")
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista de aventura 

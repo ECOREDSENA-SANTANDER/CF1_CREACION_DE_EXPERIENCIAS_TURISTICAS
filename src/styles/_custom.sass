@@ -23,7 +23,7 @@
 .banner-principal__row .banner-principal__img
   width: 400px !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
+  color: black !important   
 figcaption
   font-weight: normal
  
@@ -97,26 +97,7 @@ figcaption
   transform: rotate(0deg)
   left: 15px
 
-.prinslyder
-  background: url('../assets/curso/tema1/fondo1.png')
-  width: 100%
-  background-repeat: no-repeat
-  background-size: cover
-  border-radius: 10px
-.tema1 .sliders p
-  background-color: white
-  padding: 15px 15px 15px 15px
-  border-radius: 10px
-  margin-top: 30px
-.tema4 .sliders .texto
-  background-color: white
-  padding: 15px 15px 15px 15px
-  border-radius: 10px
-  margin-top: 30px
-.tema4
-  background-color: white
-  width: 93%
-  margin-top: 20px
+
 
 .subt
   display: flex
@@ -264,10 +245,6 @@ figcaption
     height: auto
     margin-bottom: 10px
 
-.row.caracteristicas .fondocolumna
-  img
-    width: 65px
-    margin-bottom: 20px
 
 .acordion__accion__btn--a
   background-color:  $color-acento-botones
@@ -292,12 +269,7 @@ figcaption
     display: none
 
 //Tema 3
-.row.mercadoturistico .fondo
-  background-color: #FFF6F1
-  padding: 15px
-.row.mercadoturistico
-  img
-    height: 290px
+
 
 .row.mercadoturistico .fondoverde
   background-color: #EEFDFA
@@ -309,17 +281,206 @@ figcaption
 
 .tarjetasfundamentales .cologris
   background-color: #CCD5E3
-  border-radius: 10px
-
+  border-radius: 20px 0px 0px 20px 
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
 .tarjetasfundamentales .coloverde
   background-color: #BBF6EA
-  border-radius: 10px
+  border-radius: 0px 20px 20px 0px
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
+.tarjetasfundamentales .cologris1
+  background-color: #CCD5E3
+  border-radius: 0px
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
+.tarjetasfundamentales .coloverde1
+  background-color: #BBF6EA
+  border-radius: 0px
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
 
-.tarjetasfundamentales .colonaranja
+.tarjetasfundamentales .colornaranja1
   background-color: #FFD9C5
-  border-radius: 10px
+  border-radius: 20px 0px 0px 20px 
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
+.tarjetasfundamentales .colorverde22
+  background-color: #BBF6EA
+  border-radius: 0px 20px 20px 0px
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
+.tarjetasfundamentales .colornaranja2
+  background-color: #FFD9C5
+  border-radius: 0px
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
+.tarjetasfundamentales .colorverde2
+  background-color: #BBF6EA
+  border-radius: 0px
+  @media only screen and (min-width: 601px) and (max-width: 1024px)
+    border-radius: 20px
+  @media only screen and (max-width: 600px)
+    border-radius: 20px
+
+
 
 //Tema 4
 
 .row.tituloperfil
   margin-top: 80px
+
+.bgs
+  background-color: #F6F6F6
+  border-radius: 20px
+
+.bgi
+  background-color: #DDFAF5
+
+.fondo1
+  background: url('../assets/curso/intro/fd.png')
+  background-size: 100% 90%
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+
+
+.tarjetap
+  background-color: #fff
+  border-radius: 15px
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    width: 50px
+    height: 50px
+    background-color:#FF725D
+    border-radius: 50%
+.slyder-a__bullets__item 
+    background-color: #C4F7ED
+    border-color: #C4F7ED
+.slyder-a__bullets__item--active 
+    background-color: #56E9CC !important
+    border-color: #56E9CC!important
+@media (max-width: 768px) 
+    .slyder-a__bullets__item 
+        width: 12px
+        height: 12px
+        margin: 0px 1px
+@media (max-width: 768px)  
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 45px
+    height: 45px
+.slyder-a__tipo-b .slyder-a__btn--atrs 
+    transform: rotate(180deg)
+    left: 15px
+    content: url('../assets/curso/tema1/der.png')
+.slyder-a__tipo-b .slyder-a__btn--sigt 
+    transform: rotate(180deg)
+    right: 15px
+    content: url('../assets/curso/tema1/izq.png')
+
+.fondo2
+  background: url('../assets/curso/tema1/fondo2.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+
+.fd2
+  background: url('../assets/curso/tema2/fd2.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+
+
+.img-t
+  width: auto
+  height: auto
+.img-a
+  display: block
+  margin: auto
+
+.fa-circle-check
+  content: url('../assets/curso/tema2/ico.png')
+  width: 14px
+  height: 14px
+
+
+.titulo-sexto 
+    margin-bottom: 24px
+    border-left: 10px solid
+    padding: 5px 0 5px 8px
+
+.titulo-sexto.color-secundario 
+    border-left-color: #56E9CC !important
+
+.fondo33
+  background: url('../assets/curso/tema3/fdo3.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+
+.fndd
+  background: url('../assets/curso/tema1/fndd.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: -20px bottom
+  margin-inline: -3.4rem
+  margin-right: -4.3rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-left: -2rem
+    margin-right: -2rem
+    background-size:  100% 100%
+.tarjeta--slyder.b2
+  background-color:#FFFFFF
+.fa-chevron-right:before 
+    content: url('../assets/curso/tema1/der.png')
+.fa-chevron-left:before 
+    content: url('../assets/curso/tema1/izq.png')
+.bg3
+  background-color: #56E9CC
+
+
+.mva
+  margin-bottom: -45px

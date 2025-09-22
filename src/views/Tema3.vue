@@ -25,6 +25,7 @@
         .col-lg-12
           p.mb-4 Un sistema, en términos generales, es un conjunto de elementos interrelacionados que trabajan coordinadamente para alcanzar un propósito específico. En el caso del turismo, este propósito es ofrecer una experiencia satisfactoria al visitante, desde su lugar de origen hasta el destino, e incluso durante su retorno.
           p.mb-4 La Organización Mundial del Turismo (OMT) define el sistema turístico como la articulación de cuatro elementos fundamentales :
+    
     .row.justify-content-center.mb-4(data-aos="fade-down").tarjetasfundamentales
       .col-lg-3.col-md-6.mb-3.cologris
         .tarjeta-boton2.h-100.p-4
@@ -32,13 +33,13 @@
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema3/3.svg', alt='')
           p.text-center La demanda turística: conformada por los individuos que viajan y consumen productos turísticos por distintas motivaciones (ocio, negocio, salud, cultura, religión, etc.).
-      .col-lg-3.col-md-6.mb-3.coloverde
+      .col-lg-3.col-md-6.mb-3.coloverde1
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema3/4.svg', alt='')
           p.text-center La oferta turística: integrada por los bienes, servicios e infraestructuras puestos a disposición de los turistas para satisfacer sus necesidades (alojamiento, transporte, alimentación, recreación, etc.).
-      .col-lg-3.col-md-6.mb-3.cologris
+      .col-lg-3.col-md-6.mb-3.cologris1
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
@@ -58,7 +59,8 @@
         .col-lg-1
         .col-lg-10.col-md-12
           p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 1.] Sistema turístico 
-          img(src='@/assets/curso/tema3/7.png', alt='')
+          img.mb-2(src='@/assets/curso/tema3/17.png', alt='Sistema turístico según la Organización Mundial del Turismo (OMT) compuesto por demanda, oferta, espacio geográfico y operadores del mercado, todos interrelacionados.')
+          figcaption Fuente: https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.1.pdf
       .mb-5
       .row.tipoturista
         .col-lg-1
@@ -68,10 +70,19 @@
       .mb-5
       .row
         .col-lg-8
-          p.mb-4 #[strong La demanda:] corresponde al conjunto de consumidores o posibles consumidores de los productos y servicios turísticos.
-          p.mb-4 #[strong La oferta:] está constituida por los diferentes bienes, servicios y organizaciones a través de los cuales se genera la experiencia turística.
-          p.mb-4 #[strong El espacio geográfico:] se define como el medio físico donde ocurre la conjunción o encuentro entre la oferta y la demanda.
-          p.mb-4 #[strong Los operadores del mercado:] se ubican en el espacio geográfico. Son las empresas y organismos cuya función principal es facilitar la interrelación entre la oferta y la demanda: agencias de viajes, compañías de transporte regular y organismos públicos y privados que intervienen en la ordenación o promoción del turismo.
+          ul.lista-ul
+            li.d-flex.mb-4
+              i.fas.fa-circle-check
+              p.mb-0 #[strong La demanda:] corresponde al conjunto de consumidores o posibles consumidores de los productos y servicios turísticos.
+            li.d-flex.mb-4
+              i.fas.fa-circle-check
+              p.mb-0 #[strong La oferta:] está constituida por los diferentes bienes, servicios y organizaciones a través de los cuales se genera la experiencia turística.
+            li.d-flex.mb-4
+              i.fas.fa-circle-check
+              p.mb-0 #[strong El espacio geográfico:] se define como el medio físico donde ocurre la conjunción o encuentro entre la oferta y la demanda.
+            li.d-flex.mb-4
+              i.fas.fa-circle-check
+              p.mb-0 #[strong Los operadores del mercado:] se ubican en el espacio geográfico. Son las empresas y organismos cuya función principal es facilitar la interrelación entre la oferta y la demanda: agencias de viajes, compañías de transporte regular y organismos públicos y privados que intervienen en la ordenación o promoción del turismo.
         .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0
           img(src='@/assets/curso/tema3/9.png', alt='').imagehide
       .mb-4
@@ -101,12 +112,13 @@
       
       .row
         .col-lg-12.col-md-12
-          p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 2.] Sistema turístico 
-          img(src='@/assets/curso/tema3/12.png', alt='')
+          p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 2.] Cadena de valor del turismo 
+          img.mb-2(src='@/assets/curso/tema3/12.png', alt='Diagrama de la cadena de valor del turismo que muestra la interacción entre el sector público y privado en etapas como diseño, transporte, estancia y oferta motivacional, desde la planificación hasta el retorno del turista.')
+          figcaption Fuente: https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/
       .mb-5
-      .row.mercadoturistico
-        .col-lg-5.col-md-12
-          img(src='@/assets/curso/tema3/1.png', alt='')
+      .row.justify-content-center.align-items-center.mercadoturistico
+        .col-lg-5.col-md-9
+          img.mb-lg-0.mb-4(src='@/assets/curso/tema3/1.png', alt='')
         .col-lg-7
           p.mb-4 El principal objetivo de construir una cadena de valor en el sector turístico es promover una distribución más equitativa de los ingresos y beneficios, facilitando el acceso al mercado de los actores con menor capacidad económica y fortaleciendo su poder de negociación. Esto incluye a pequeños productores, emprendedores locales y microempresas que, en muchos casos, enfrentan barreras estructurales para participar de manera activa y competitiva en la industria del turismo.
           p.mb-4.fondoverde Por ello, cualquier iniciativa orientada al desarrollo de una cadena de valor debe partir de un análisis detallado del mercado turístico, evaluando las oportunidades comerciales reales y sostenibles para estos actores. Este enfoque no solo permite fomentar la inclusión productiva, sino que también contribuye al fortalecimiento del tejido social y económico de los destinos turísticos, impulsando su desarrollo sostenible.
@@ -120,16 +132,24 @@
         .col-lg-4.col-md-6.col-9.mb-0.mb-lg-0
           img(src='@/assets/curso/tema3/14.png', alt='').imagehide
       .mb-5
-      .row
-        .col-lg-12
-          p.mb-4 Comprender el funcionamiento del mercado turístico y las dinámicas del sistema turístico es fundamental para diseñar estrategias eficientes, promover el desarrollo sostenible de los destinos, mejorar la competitividad del sector y asegurar experiencias de calidad para los visitantes.
+      
+      p.mb-4 Comprender el funcionamiento del mercado turístico y las dinámicas del sistema turístico es fundamental para diseñar estrategias eficientes, promover el desarrollo sostenible de los destinos, mejorar la competitividad del sector y asegurar experiencias de calidad para los visitantes.
 
-      .row.sistema
-        .col-lg-1
-        .col-lg-10
-          p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 3.] Cadena de valor en turismo  
-          img(src='@/assets/curso/tema3/15.png', alt='')
-      .mb-5
+      .fondo33
+        .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="fade-down")
+          .col-lg-12.mb-0
+      
+            .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
+              .col-lg-10
+                .titulo-sexto.color-secundario.mb-3
+                  h5 Figura 3. 
+                  | Cadena de valor en turismo
+            .row.justify-content-center.align-items-center.mb-0
+              .col-lg-10
+                img.mb-2(src='@/assets/curso/tema3/15.png', alt='Cuadro con elementos clave para fortalecer la cadena de valor turística: identificación de productores, canales de comercialización, relaciones entre actores, conocimiento del mercado y relaciones comerciales.')
+                figcaption Fuente: https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/
+            
+   
       .tarjeta.color-adicional-1.p-4.mb-0(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1

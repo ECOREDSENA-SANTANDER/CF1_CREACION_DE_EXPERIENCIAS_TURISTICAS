@@ -6,18 +6,18 @@
       .titulo-principal__numero
         span 4
       h1 Tendencias en el sector turístico 
-    .row.mercadoturistico
+    .row.justify-content-center.align-items-center.mercadoturistico
         .col-lg-8
           p.mb-4 Las tendencias en el turismo reflejan la evolución de los comportamientos, motivaciones y preferencias de los viajeros, influenciadas por factores como los avances tecnológicos, los cambios demográficos y socioeconómicos, la conciencia ambiental, las nuevas formas de consumo y la creciente necesidad de personalización de las experiencias. Estas tendencias abarcan desde el auge del turismo sostenible y los viajes de bienestar, hasta la digitalización de los servicios y la demanda por experiencias auténticas e inmersivas.
           p.mb-4.fondoverde Comprender y adaptarse a estas dinámicas resulta fundamental para que los prestadores de servicios turísticos mantengan su competitividad, respondan eficazmente a las expectativas cambiantes del mercado y generen propuestas de valor diferenciadas. Las tendencias no solo marcan el rumbo de la oferta turística, sino que también representan una herramienta estratégica para la innovación y la sostenibilidad del sector.
-        .col-lg-4.col-md-12
+        .col-lg-4.col-md-9
           img(src='@/assets/curso/tema4/1.png', alt='')
     .mb-4
     .row
       .col-lg-12
         p.mb-4  Entre los beneficios más relevantes de su adopción, se destacan:
     .mb-3
-    .row.acordeon
+    .row.acordeon.mb-4
         .col-lg-3
           img(src='@/assets/curso/tema4/2.png', alt='').imagehide
         .col-lg-9.col-md-12.col-sm-12
@@ -38,8 +38,10 @@
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
                   p.mb-0 La adopción de tendencias tecnológicas también impacta positivamente en la eficiencia operativa, mediante sistemas de reservas automatizados, plataformas de gestión de servicios, herramientas de análisis de datos y soluciones para el control del consumo energético y de residuos. Estas innovaciones permiten reducir costos operativos, optimizar recursos y mejorar el cumplimiento de normativas ambientales y de calidad. En paralelo, la integración de prácticas de turismo responsable y sostenible atiende a una creciente demanda por parte del mercado y fortalece la reputación del destino como actor comprometido con el desarrollo territorial, la conservación del entorno y el respeto por las comunidades locales.
+    
+    p.mb-0 Las tendencias turísticas no deben entenderse solo como modas pasajeras, sino como señales de cambio estructural que deben ser incorporadas en los procesos de planificación, gestión y comercialización del turismo. Adaptarse proactivamente a estas transformaciones es clave para garantizar la sostenibilidad, innovación y resiliencia del sector en el contexto actual y futuro.
+    
     separador
-
     #t_4_1.titulo-segundo.color-acento-contenido.mb-5
       h2 4.1 El futuro de las tendencias en el sector del turismo y en el mercado turístico      
 
@@ -49,9 +51,11 @@
         .col-lg-11
           p.mb-4 El futuro del turismo está en constante evolución, marcado por tendencias emergentes y por el cambio en los valores, intereses y comportamientos de los viajeros. La transformación del mercado turístico no solo responde a factores tecnológicos, económicos y demográficos, sino también a una creciente conciencia sobre la sostenibilidad, la salud, la inclusión y la autenticidad. A continuación, se describen algunas de las principales proyecciones y escenarios que probablemente definirán el rumbo del sector en los próximos años :
     .mb-4
-    .row.prinslyder.justify-content-center
-        .tarjeta.p-4.mb-5.tema4
-          SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
+    
+    .row.fondo2.p-4.p-lg-5.p-md-4.mb-5(data-aos="fade-down")
+      .col-lg-12
+        .tarjetap.p-4.mb-0
+          SlyderA(tipo="b")(data-aos="zoom-in-left")
             .row
               .col-lg-1
               .col-lg-6.justify-content-center
@@ -141,33 +145,32 @@
       .col-lg-12
         p.mb-4  El público viajero también está cambiando. En el último informe Changing Traveller Report de SiteMinder se descubren 4 públicos claves :
     .row.justify-content-center.mb-4(data-aos="fade-down").tarjetasfundamentales
-      .col-lg-3.col-md-6.mb-3.colonaranja
+      .col-lg-3.col-md-6.mb-3.colornaranja1
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/14.svg', alt='')
           p.text-center #[strong El viajero constante:] persona apasionada por explorar, que ve el viaje no como un lujo, sino como una parte esencial de su realización personal y una vía para reconectarse con el mundo.
-      .col-lg-3.col-md-6.mb-3.coloverde
+      .col-lg-3.col-md-6.mb-3.colorverde2
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/15.svg', alt='')
           p.text-center #[strong El dependiente digital:] altamente conectado, toma decisiones a partir de plataformas digitales, aplicaciones móviles, reseñas en línea y redes sociales. Prioriza la eficiencia y la información inmediata.
-      .col-lg-3.col-md-6.mb-3.colonaranja
+      .col-lg-3.col-md-6.mb-3.colornaranja2
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/16.svg', alt='')
           p.text-center #[strong El coleccionista de recuerdos:] valora las experiencias únicas por encima del consumo material. Prefiere rutas menos convencionales, actividades personalizadas y vivencias que pueda compartir y recordar.
-      .col-lg-3.col-md-6.mb-3.coloverde
+      .col-lg-3.col-md-6.mb-3.colorverde22
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/17.svg', alt='')
           p.text-center #[strong El colaborador consciente:] viajero ético y comprometido que busca generar impacto positivo, elige alojamientos responsables y apoya prácticas sostenibles, justas e inclusivas en el destino.
-    .row
-      .col-lg-12
-        p.mb-4  Estos perfiles reflejan los cambios profundos en las motivaciones de los turistas, que cada vez valoran más la autenticidad, la sostenibilidad, el bienestar y la conexión emocional. Comprender y adaptarse a estas tendencias es clave para que el sector turístico siga siendo competitivo, resiliente e innovador frente a los desafíos del presente y del futuro.
+
+    p.mb-0 Estos perfiles reflejan los cambios profundos en las motivaciones de los turistas, que cada vez valoran más la autenticidad, la sostenibilidad, el bienestar y la conexión emocional. Comprender y adaptarse a estas tendencias es clave para que el sector turístico siga siendo competitivo, resiliente e innovador frente a los desafíos del presente y del futuro.
 </template>
 
 <script>
