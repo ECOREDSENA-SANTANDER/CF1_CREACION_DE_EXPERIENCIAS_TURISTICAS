@@ -32,25 +32,25 @@
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema3/3.svg', alt='')
-          p.text-center La demanda turística: conformada por los individuos que viajan y consumen productos turísticos por distintas motivaciones (ocio, negocio, salud, cultura, religión, etc.).
+          p.mb-0 #[b La demanda turística:] conformada por los individuos que viajan y consumen productos turísticos por distintas motivaciones (ocio, negocio, salud, cultura, religión, etc.).
       .col-lg-3.col-md-6.mb-3.coloverde1
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema3/4.svg', alt='')
-          p.text-center La oferta turística: integrada por los bienes, servicios e infraestructuras puestos a disposición de los turistas para satisfacer sus necesidades (alojamiento, transporte, alimentación, recreación, etc.).
+          p.mb-0 #[b La oferta turística:] integrada por los bienes, servicios e infraestructuras puestos a disposición de los turistas para satisfacer sus necesidades (alojamiento, transporte, alimentación, recreación, etc.).
       .col-lg-3.col-md-6.mb-3.cologris1
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema3/5.svg', alt='')
-          p.text-center El espacio geográfico: que incluye tanto los lugares de origen como los destinos turísticos, así como las rutas y medios que los conectan.
+          p.mb-0 #[b El espacio geográfico:] que incluye tanto los lugares de origen como los destinos turísticos, así como las rutas y medios que los conectan.
       .col-lg-3.col-md-6.mb-3.coloverde
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema3/6.svg', alt='')
-          p.text-center Los operadores del mercado: empresas, instituciones y actores que intermedian, regulan, promocionan o gestionan la oferta y demanda, facilitando el funcionamiento del mercado (agencias de viajes, tour operadores, autoridades turísticas, gremios, etc.).
+          p.mb-0 #[b Los operadores del mercado:] empresas, instituciones y actores que intermedian, regulan, promocionan o gestionan la oferta y demanda, facilitando el funcionamiento del mercado (agencias de viajes, tour operadores, autoridades turísticas, gremios, etc.).
       .row
         .col-lg-12
           p.mb-4 Comprender el funcionamiento del mercado turístico y las dinámicas del sistema turístico es fundamental para diseñar estrategias eficientes, promover el desarrollo sostenible de los destinos, mejorar la competitividad del sector y asegurar experiencias de calidad para los visitantes.
@@ -135,8 +135,8 @@
       
       p.mb-4 Comprender el funcionamiento del mercado turístico y las dinámicas del sistema turístico es fundamental para diseñar estrategias eficientes, promover el desarrollo sostenible de los destinos, mejorar la competitividad del sector y asegurar experiencias de calidad para los visitantes.
 
-      .fondo33
-        .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="fade-down")
+      .fondo33.mb-5
+        .row.justify-content-center.align-items-center(data-aos="fade-down")
           .col-lg-12.mb-0
       
             .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -160,9 +160,10 @@
                 h4.mb-2.blu Introducción al análisis de cadenas de valor de turismo  
                 p.mb-0 Para fortalecer el tema anteriormente abordado, se invita a consultar el siguiente video.
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172558#:~:text=La%20actividad%20tur%C3%ADstica%2C%20conforme%20al,la%20identidad%20cultural%20de%20las%20comunidades." target="_blank")
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=d4guj84c1F8&t=316s" target="_blank")
                   span Ir al sitio
                   i.fas.fa-circle-play
+
 </template>
 
 <script>

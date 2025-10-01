@@ -13,9 +13,11 @@
         .col-lg-4.col-md-9
           img(src='@/assets/curso/tema2/1.png', alt='')  
     .mb-4
-    .subt.mb-4(data-aos="fade")
-        img(src="@/assets/curso/tema2/2.svg")
-        h3.ps-3.pe-4.mb-0 Características de los servicios turísticos 
+
+    .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
+      img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
+      h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Características de los servicios turísticos 
+  
     .row.caracteristicas
         .col-lg-5.fondo
           p.mb-4 A diferencia de los bienes tangibles que pueden tocarse o evaluarse antes de ser adquiridos, los servicios turísticos se caracterizan por su intangibilidad, lo cual implica que solo pueden ser experimentados en el momento de su prestación. Esto hace que la percepción de calidad dependa directamente de la interacción con el prestador del servicio y de factores como el trato, la atención, la puntualidad y la experiencia vivida.
@@ -112,8 +114,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-2.blu Ley 2068 de 2020
-                  p.mb-0 Diríjase al siguiente enlace donde podrá conocer la Ley 2068 de 2020, por el cual se modifica la Ley 300 Ley General de Turismo y se dictan otras disposiciones. 
+                  h4.mb-2.blu Servicios turísticos | características
+                  p.mb-0 Para fortalecer el tema anteriormente abordado, se invita a consultar el siguiente video.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=lIt_vdvmupM&t=350s" target="_blank")
                     span Ir al sitio

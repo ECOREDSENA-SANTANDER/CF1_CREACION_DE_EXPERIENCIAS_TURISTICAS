@@ -175,7 +175,7 @@ export default {
         'impacto de la Inteligencia Artificial en los negocios digitales en todas partes.',
     },
     {
-      termino: 'Marketing turístico',
+      termino: '<em>Marketing</em> turístico',
       significado:
         'conjunto de estrategias y actividades utilizadas para promocionar destinos, productos y servicios turísticos, con el objetivo de atraer a más visitantes y generar beneficios para el sector.',
     },
@@ -190,7 +190,7 @@ export default {
         'proceso de establecer y aplicar precios o tarifas a los productos o servicios turísticos.',
     },
     {
-      termino: 'Tecnología blockchain',
+      termino: 'Tecnología <em>blockchain</em>',
       significado:
         'el uso de una base de datos descentralizada, inmutable y segura para registrar y gestionar datos relacionados con el sector turístico.',
     },
@@ -200,7 +200,7 @@ export default {
         'cambios y novedades que están tomando fuerza en la industria, influenciados por factores como la tecnología, el comportamiento del viajero y las nuevas necesidades del mercado.',
     },
     {
-      termino: 'Trekking',
+      termino: '<em>Trekking</em>',
       significado:
         'actividad que implica caminar largas distancias, generalmente en entornos naturales, a menudo por senderos no marcados o de difícil acceso, y que puede durar varios días.',
     },
@@ -318,7 +318,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Johann Sebastián Teran Carvajal',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -328,13 +328,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: '',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

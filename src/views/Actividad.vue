@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del componente formativo Conexiones turísticas – tejiendo experiencias.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡FELICIDADES!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
@@ -257,7 +257,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente trabajo! Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad Conexiones turísticas – tejiendo experiencias.',
+        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad Conexiones turísticas – tejiendo experiencias. ¡Siga explorando este fascinante mundo del turismo¡',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

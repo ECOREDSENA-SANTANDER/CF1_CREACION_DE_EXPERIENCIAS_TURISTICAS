@@ -33,7 +33,7 @@
             .row.col-xl-11.m-auto(titulo="Mejora en la experiencia del turista y satisfacción del cliente")
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
-                  p.mb-0 La incorporación de nuevas tecnologías, como aplicaciones móviles, inteligencia artificial, códigos QR o sistemas de auto check-in, permite mejorar notablemente la experiencia del usuario, optimizando tiempos, simplificando procesos y brindando un servicio más ágil y personalizado. Asimismo, el diseño de experiencias turísticas emocionalmente significativas, como actividades inmersivas, encuentros culturales, turismo rural o vivencias temáticas, incrementa la satisfacción del visitante y fortalece su vínculo emocional con la marca o destino.
+                  p.mb-0 La incorporación de nuevas tecnologías, como aplicaciones móviles, inteligencia artificial, códigos QR o sistemas de auto #[em check-in], permite mejorar notablemente la experiencia del usuario, optimizando tiempos, simplificando procesos y brindando un servicio más ágil y personalizado. Asimismo, el diseño de experiencias turísticas emocionalmente significativas, como actividades inmersivas, encuentros culturales, turismo rural o vivencias temáticas, incrementa la satisfacción del visitante y fortalece su vínculo emocional con la marca o destino.
             .row.col-xl-11.m-auto(titulo="Excelencia operativa y sostenibilidad")
               .row.justify-content-center.align-items-center(data-aos="fade-right")
                 .col-lg-12
@@ -68,7 +68,7 @@
               .col-lg-1
               .col-lg-6.justify-content-center
                 p #[strong Transformación digital y tecnología inteligente]
-                p La integración de tecnologías avanzadas como la Inteligencia Artificial (IA), la realidad aumentada y virtual, el internet of Things (IoT) y la tecnología blockchain revolucionará la forma de planear, gestionar y disfrutar los viajes. Estas herramientas permitirán el diseño de itinerarios personalizados, reservas automatizadas, asistencia digital en tiempo real, recorridos virtuales y programas de fidelización seguros y transparentes. La digitalización también mejora la eficiencia operativa y permite recopilar datos para adaptar mejor la oferta a la demanda.
+                p La integración de tecnologías avanzadas como la Inteligencia Artificial (IA), la realidad aumentada y virtual, el internet #[em of Things] (IoT) y la tecnología #[em blockchain] revolucionará la forma de planear, gestionar y disfrutar los viajes. Estas herramientas permitirán el diseño de itinerarios personalizados, reservas automatizadas, asistencia digital en tiempo real, recorridos virtuales y programas de fidelización seguros y transparentes. La digitalización también mejora la eficiencia operativa y permite recopilar datos para adaptar mejor la oferta a la demanda.
               .col-lg-4.imagehide
                 figure
                  img(src='@/assets/curso/tema4/5.png', alt='')
@@ -91,8 +91,8 @@
             .row
               .col-lg-1
               .col-lg-6.justify-content-center
-                p #[strong Fusión entre viajes de negocios y ocio (bleisure)]
-                p Con la consolidación del trabajo remoto y los modelos laborales híbridos, se incrementa la combinación de viajes de negocios con actividades de ocio. Este tipo de viajero busca destinos que ofrezcan conectividad, infraestructura para el trabajo a distancia, y oportunidades de descanso y exploración. El concepto de “bleisure” (business + leisure) promueve estancias más largas y una mayor derrama económica en los destinos.
+                p #[strong Fusión entre viajes de negocios y ocio (#[em bleisure])]
+                p Con la consolidación del trabajo remoto y los modelos laborales híbridos, se incrementa la combinación de viajes de negocios con actividades de ocio. Este tipo de viajero busca destinos que ofrezcan conectividad, infraestructura para el trabajo a distancia, y oportunidades de descanso y exploración. El concepto de #[em “bleisure” (business + leisure)] promueve estancias más largas y una mayor derrama económica en los destinos.
               .col-lg-4.imagehide
                 figure
                   img(src='@/assets/curso/tema4/8.png', alt='')
@@ -100,7 +100,7 @@
               .col-lg-1
               .col-lg-6.justify-content-center
                 p #[strong Microvacaciones y viajes de cercanía]
-                p Se observa una creciente preferencia por los viajes breves y frecuentes, conocidos como microvacaciones, así como por los desplazamientos a destinos cercanos o dentro del mismo país (staycations). Esta tendencia responde a la búsqueda de descanso rápido, la optimización del tiempo libre y el deseo de evitar largas distancias, especialmente en contextos de incertidumbre o restricciones sanitarias.
+                p Se observa una creciente preferencia por los viajes breves y frecuentes, conocidos como microvacaciones, así como por los desplazamientos a destinos cercanos o dentro del mismo país (#[em staycations]). Esta tendencia responde a la búsqueda de descanso rápido, la optimización del tiempo libre y el deseo de evitar largas distancias, especialmente en contextos de incertidumbre o restricciones sanitarias.
               .col-lg-4.imagehide
                 figure
                   img(src='@/assets/curso/tema4/9.png', alt='')
@@ -136,14 +136,14 @@
               .col-lg-4.imagehide
                 figure
                   img(src='@/assets/curso/tema4/13.png', alt='')
-    .row.tituloperfil
-      .col-lg-12
-        .subt.mb-4(data-aos="fade")
-          img(src="@/assets/curso/tema1/4.svg")
-          h3.ps-3.pe-4.mb-0 Nuevos perfiles de viajeros  
+    
+    .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
+        img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
+        h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Nuevos perfiles de viajeros  
+    
     .row
       .col-lg-12
-        p.mb-4  El público viajero también está cambiando. En el último informe Changing Traveller Report de SiteMinder se descubren 4 públicos claves :
+        p.mb-4  El público viajero también está cambiando. En el último informe #[em Changing Traveller Report de SiteMinder] se descubren 4 públicos claves :
     .row.justify-content-center.mb-4(data-aos="fade-down").tarjetasfundamentales
       .col-lg-3.col-md-6.mb-3.colornaranja1
         .tarjeta-boton2.h-100.p-4

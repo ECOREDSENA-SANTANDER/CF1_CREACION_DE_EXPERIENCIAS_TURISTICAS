@@ -25,11 +25,11 @@
             img(src='@/assets/curso/intro/2.png', alt='').imagehide
     
         .row.justify-content-center.align-items-center           
-         .col-lg-12
-           figure
-             .video
-               iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-           figcaption
+          .col-lg-12
+            figure
+              .video
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Pcwy9F7hXcE?si=2WcWhkoB8w49BbEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            figcaption Video. Conexiones turísticas - tejiendo experiencias
 
 </template>
 

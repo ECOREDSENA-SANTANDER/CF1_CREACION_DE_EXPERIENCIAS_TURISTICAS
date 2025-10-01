@@ -21,7 +21,7 @@
             SlyderA(tipo="b")(data-aos="zoom-in-left")
               .row.justify-content-center.align-items-center.p-0.p-lg-4
                 .col-lg-12
-                  p.mb-lg-0.mb-4 #[strong Artículo 1:] esta ley tiene como propósito fomentar la sostenibilidad del turismo mediante la  implementación de mecanismos orientados a la conservación, protección y aprovechamiento responsable de los destinos y atractivos turísticos. Además, busca fortalecer la formalización y competitividad del sector, así como promover la recuperación de la industria turística. Lo anterior se materializa a través de incentivos, el mejoramiento de la calidad y la adopción de medidas que impulsen la transformación y expansión de oportunidades en el sector turístico.
+                  p.mb-lg-0.mb-4 #[strong Artículo 1:] esta Ley tiene como propósito fomentar la sostenibilidad del turismo mediante la  implementación de mecanismos orientados a la conservación, protección y aprovechamiento responsable de los destinos y atractivos turísticos. Además, busca fortalecer la formalización y competitividad del sector, así como promover la recuperación de la industria turística. Lo anterior se materializa a través de incentivos, el mejoramiento de la calidad y la adopción de medidas que impulsen la transformación y expansión de oportunidades en el sector turístico.
               .row.justify-content-center.align-items.p-0.p-lg-4
                 .col-lg-12
                   p.mb-lg-0.mb-4 #[strong Artículo 2:] la Ley 2068 de 2020 introduce modificaciones importantes al artículo 2 de la Ley 300 de 1996, el cual ya había sido reformado por el artículo 3 de la Ley 1558 de 2012. Esta nueva actualización modifica los numerales 8 y 9, y adiciona el numeral 12, con el objetivo de fortalecer los principios rectores de la actividad turística en Colombia. Las modificaciones integran enfoques que reconocen al turismo como una actividad estratégica para el desarrollo social, económico y cultural, comprometida con la sostenibilidad y la inclusión universal, alineándose con los mandatos constitucionales y las demandas actuales del sector.
@@ -39,7 +39,7 @@
       .tarjeta.color-adicional-1.p-4.mb-0(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema1/2.svg")
+            img(src="@/assets/curso/tema1/24.svg")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -61,10 +61,11 @@
           .col-lg-4.col-md-10
             img(src='@/assets/curso/tema1/3.png', alt='')
       .mb-5
-      .subt.mb-4(data-aos="fade")
-        img(src="@/assets/curso/tema1/4.svg")
-        h3.ps-3.pe-4.mb-0 Características del usuario de turismo 
-      .mb-5
+      
+      .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
+        img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
+        h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Características del usuario de turismo 
+      
       .row
         .col-lg-12
           p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
@@ -87,35 +88,35 @@
                 .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
                   .row.justify-content-center.mb-3
                     .col-9.my-4
-                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/7.svg' alt='AvatarTop')
                       .bg3.p-1.mb-0
-                        h5.text-center.mb-0.my-1.ps-2.pe-2 Desplazamiento temporal
+                        h5.text-center.mb-0.my-1.ps-2.pe-2 Diversidad de motivaciones
                   p.mb-0.text-center(data-aos="fade-right") Los motivos de viaje son variados e incluyen el ocio, la recreación, la cultura, la salud, los negocios, la religión, el deporte, la educación, entre otros, lo que da origen a múltiples tipologías de turismo como el ecoturismo, turismo de salud, turismo gastronómico, turismo religioso, entre otros.
                 .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
                   .row.justify-content-center.mb-3
                     .col-9.my-4
-                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/8.svg' alt='AvatarTop')
                       .bg3.p-1.mb-0
                         h5.text-center.mb-0.my-1.ps-2.pe-2 Consumo de productos y servicios turísticos
                   p.mb-0.text-center(data-aos="fade-right") El turista es el consumidor final de bienes y servicios turísticos, como transporte, alojamiento, alimentación, actividades recreativas, visitas guiadas y experiencias culturales.
                 .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
                   .row.justify-content-center.mb-3
                     .col-9.my-4
-                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/9.svg' alt='AvatarTop')
                       .bg3.p-1.mb-0
                         h5.text-center.mb-0.my-1.ps-2.pe-2 Decisión autónoma del destino 
                   p.mb-0.text-center(data-aos="fade-right") Define libremente el destino y propósito del viaje, planificando su recorrido, los lugares a visitar y las actividades a realizar, ya sea de forma independiente o con apoyo de agencias especializadas.
                 .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
                   .row.justify-content-center.mb-3
                     .col-9.my-4
-                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/10.svg' alt='AvatarTop')
                       .bg3.p-1.mb-0
                         h5.text-center.mb-0.my-1.ps-2.pe-2 Duración definida de la estadía
                   p.mb-0.text-center(data-aos="fade-right") La permanencia del turista en el lugar de destino tiene una duración previamente establecida, sin intención de fijar residencia en el sitio visitado.
                 .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
                   .row.justify-content-center.mb-3
                     .col-9.my-4
-                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
+                      img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema1/11.svg' alt='AvatarTop')
                       .bg3.p-1.mb-0
                         h5.text-center.mb-0.my-1.ps-2.pe-2 Uso de servicios de hospedaje 
                   p.mb-0.text-center(data-aos="fade-right") Durante su estadía, el turista hace uso de algún tipo de alojamiento temporal, ya sea en hoteles, hostales, viviendas turísticas, casas de familiares o amigos, entre otros.
@@ -123,9 +124,11 @@
       .row
         .col-lg-12
           p.mb-4 Estas características se enmarcan en los criterios establecidos por organismos internacionales como la Organización Mundial del Turismo (OMT), que busca estandarizar la definición y clasificación del turista para facilitar el análisis del comportamiento de la demanda turística y la formulación de políticas públicas en el sector.
-      .subt.mb-4(data-aos="fade")
-        img(src="@/assets/curso/tema1/4.svg")
-        h3.ps-3.pe-4.mb-0 Tipos de turistas  
+      
+      
+      .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
+        img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
+        h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Tipos de turistas  
       
       .row.tipoturista
         .col-lg-8
@@ -150,7 +153,7 @@
               img.mb-3(src='@/assets/curso/tema1/14.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Busca emociones fuertes, contacto directo con la naturaleza y desafíos físicos. Practica actividades como escalada, trekking, buceo, parapente, entre otras.
+                  p.text-center Busca emociones fuertes, contacto directo con la naturaleza y desafíos físicos. Practica actividades como escalada, #[em trekking], buceo, parapente, entre otras.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista cultural 
@@ -216,7 +219,7 @@
                   p.text-center Se enfoca en la adquisición o divulgación de conocimientos científicos. Puede realizar investigaciones, expediciones, observaciones de fenómenos naturales o actividades educativas relacionadas con la ciencia.
       .row
         .col-lg-12
-          p.mb-4 Esta clasificación no es excluyente, ya que un mismo turista puede compartir características de diferentes perfiles según el contexto de su viaje. La correcta identificación de estos tipos resulta clave para el diseño de estrategias de marketing, planificación territorial y mejora continua de la oferta turística.
+          p.mb-4 Esta clasificación no es excluyente, ya que un mismo turista puede compartir características de diferentes perfiles según el contexto de su viaje. La correcta identificación de estos tipos resulta clave para el diseño de estrategias de #[em marketing], planificación territorial y mejora continua de la oferta turística.
       .tarjeta.color-adicional-1.p-4.mb-0
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
