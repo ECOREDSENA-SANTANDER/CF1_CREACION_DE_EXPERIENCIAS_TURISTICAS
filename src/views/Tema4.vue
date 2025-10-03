@@ -150,25 +150,29 @@
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/14.svg', alt='')
-          p.text-center #[strong El viajero constante:] persona apasionada por explorar, que ve el viaje no como un lujo, sino como una parte esencial de su realización personal y una vía para reconectarse con el mundo.
+          p.mb-3 #[strong El viajero constante] 
+          p.mb-0 Persona apasionada por explorar, que ve el viaje no como un lujo, sino como una parte esencial de su realización personal y una vía para reconectarse con el mundo.
       .col-lg-3.col-md-6.mb-3.colorverde2
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/15.svg', alt='')
-          p.text-center #[strong El dependiente digital:] altamente conectado, toma decisiones a partir de plataformas digitales, aplicaciones móviles, reseñas en línea y redes sociales. Prioriza la eficiencia y la información inmediata.
+          p.mb-3 #[strong El dependiente digital] 
+          p.mb-0 Altamente conectado, toma decisiones a partir de plataformas digitales, aplicaciones móviles, reseñas en línea y redes sociales. Prioriza la eficiencia y la información inmediata.
       .col-lg-3.col-md-6.mb-3.colornaranja2
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/16.svg', alt='')
-          p.text-center #[strong El coleccionista de recuerdos:] valora las experiencias únicas por encima del consumo material. Prefiere rutas menos convencionales, actividades personalizadas y vivencias que pueda compartir y recordar.
+          p.mb-3 #[strong El coleccionista de recuerdos]
+          p.mb-0 Valora las experiencias únicas por encima del consumo material. Prefiere rutas menos convencionales, actividades personalizadas y vivencias que pueda compartir y recordar.
       .col-lg-3.col-md-6.mb-3.colorverde22
         .tarjeta-boton2.h-100.p-4
           .row.justify-content-center.mb-4
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/17.svg', alt='')
-          p.text-center #[strong El colaborador consciente:] viajero ético y comprometido que busca generar impacto positivo, elige alojamientos responsables y apoya prácticas sostenibles, justas e inclusivas en el destino.
+          p.mb-3 #[strong El colaborador consciente] 
+          p.mb-0 viajero ético y comprometido que busca generar impacto positivo, elige alojamientos responsables y apoya prácticas sostenibles, justas e inclusivas en el destino.
 
     p.mb-0 Estos perfiles reflejan los cambios profundos en las motivaciones de los turistas, que cada vez valoran más la autenticidad, la sostenibilidad, el bienestar y la conexión emocional. Comprender y adaptarse a estas tendencias es clave para que el sector turístico siga siendo competitivo, resiliente e innovador frente a los desafíos del presente y del futuro.
 </template>
