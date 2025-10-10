@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-5
         figure
-          img(src="@/assets/curso/sintesis.png", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.png", alt='Mapa conceptual titulado "Conexiones turísticas – tejiendo experiencias" que organiza cuatro componentes clave del turismo: normativa de formalización, servicios turísticos, mercado del turismo y tendencias del sector.')
       .col-auto
         a.anexo.mb-0(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

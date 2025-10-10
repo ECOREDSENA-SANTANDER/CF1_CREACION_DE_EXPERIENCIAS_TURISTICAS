@@ -6,70 +6,68 @@
         .titulo-principal__numero
           span 1
         h1 Normativa de formalización 
-      .row.justify-content-center
-          .col-lg-5.col-md-10.imagetema1
-            img(src='@/assets/curso/tema1/1.png', alt='')
-          .col-lg-7
-            p.mb-4 El turismo desempeña un papel fundamental en el desarrollo económico, social y cultural de los territorios, ya que impulsa la generación de empleo, fomenta la inclusión social y promueve el reconocimiento y la preservación del patrimonio natural y cultural. En Colombia, este sector ha sido objeto de regulación y fortalecimiento normativo con el propósito de garantizar su sostenibilidad, accesibilidad y competitividad. En este contexto, se expide la Ley 2068 de 2020, como una actualización a la Ley General de Turismo, con el fin de responder a los retos actuales y a las nuevas dinámicas del sector.
-            p.mb-4 La Ley 2068 de 2020, que modifica la Ley 300 de 1996 (Ley General de Turismo) y dicta otras disposiciones, establece en su Capítulo I los elementos fundamentales relacionados con el objeto y los principios de la actividad turística.
-      .mb-5
+      
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-5.col-md-9.col-10
+          img.mb-lg-0.mb-4(src='@/assets/curso/tema1/1.png', alt='')
+        .col-lg-7
+          p.mb-4 El turismo desempeña un papel fundamental en el desarrollo económico, social y cultural de los territorios, ya que impulsa la generación de empleo, fomenta la inclusión social y promueve el reconocimiento y la preservación del patrimonio natural y cultural. En Colombia, este sector ha sido objeto de regulación y fortalecimiento normativo con el propósito de garantizar su sostenibilidad, accesibilidad y competitividad. En este contexto, se expide la Ley 2068 de 2020, como una actualización a la Ley General de Turismo, con el fin de responder a los retos actuales y a las nuevas dinámicas del sector.
+          p.mb-0 La Ley 2068 de 2020, que modifica la Ley 300 de 1996 (Ley General de Turismo) y dicta otras disposiciones, establece en su Capítulo I los elementos fundamentales relacionados con el objeto y los principios de la actividad turística.
+      
       
       .row.fondo2.p-4.p-lg-5.p-md-4.mb-5(data-aos="fade-down")
         .col-lg-12
   
-          .tarjetap.p-4.mb-0
+          .tarjetaf.p-4.mb-0
             SlyderA(tipo="b")(data-aos="zoom-in-left")
-              .row.justify-content-center.align-items-center.p-0.p-lg-4
-                .col-lg-12
-                  p.mb-lg-0.mb-4 #[strong Artículo 1:] esta Ley tiene como propósito fomentar la sostenibilidad del turismo mediante la  implementación de mecanismos orientados a la conservación, protección y aprovechamiento responsable de los destinos y atractivos turísticos. Además, busca fortalecer la formalización y competitividad del sector, así como promover la recuperación de la industria turística. Lo anterior se materializa a través de incentivos, el mejoramiento de la calidad y la adopción de medidas que impulsen la transformación y expansión de oportunidades en el sector turístico.
               .row.justify-content-center.align-items.p-0.p-lg-4
                 .col-lg-12
-                  p.mb-lg-0.mb-4 #[strong Artículo 2:] la Ley 2068 de 2020 introduce modificaciones importantes al artículo 2 de la Ley 300 de 1996, el cual ya había sido reformado por el artículo 3 de la Ley 1558 de 2012. Esta nueva actualización modifica los numerales 8 y 9, y adiciona el numeral 12, con el objetivo de fortalecer los principios rectores de la actividad turística en Colombia. Las modificaciones integran enfoques que reconocen al turismo como una actividad estratégica para el desarrollo social, económico y cultural, comprometida con la sostenibilidad y la inclusión universal, alineándose con los mandatos constitucionales y las demandas actuales del sector.
+                  p.mb-0 #[strong Artículo 1:] esta ley tiene como propósito fomentar la sostenibilidad del turismo mediante la  implementación de mecanismos orientados a la conservación, protección y aprovechamiento responsable de los destinos y atractivos turísticos. Además, busca fortalecer la formalización y competitividad del sector, así como promover la recuperación de la industria turística. Lo anterior se materializa a través de incentivos, el mejoramiento de la calidad y la adopción de medidas que impulsen la transformación y expansión de oportunidades en el sector turístico.
               .row.justify-content-center.align-items.p-0.p-lg-4
                 .col-lg-12
-                  p.mb-lg-0.mb-4 #[strong Numeral 8:] desarrollo social, económico y cultural, establece que la actividad turística, en concordancia con el artículo 52 de la Constitución Política, es un derecho social y económico que contribuye al desarrollo integral de las personas, los seres sintientes, los territorios y las comunidades. Esta actividad fomenta el uso adecuado del tiempo libre, fortalece la identidad cultural de las comunidades y debe llevarse a cabo bajo el principio de que todos los seres humanos y sintientes tienen derecho a una vida saludable y productiva en armonía con la naturaleza.
+                  p.mb-0 #[strong Artículo 2:] la Ley 2068 de 2020 introduce modificaciones importantes al artículo 2 de la Ley 300 de 1996, el cual ya había sido reformado por el artículo 3 de la Ley 1558 de 2012. Esta nueva actualización modifica los numerales 8 y 9, y adiciona el numeral 12, con el objetivo de fortalecer los principios rectores de la actividad turística en Colombia. Las modificaciones integran enfoques que reconocen al turismo como una actividad estratégica para el desarrollo social, económico y cultural, comprometida con la sostenibilidad y la inclusión universal, alineándose con los mandatos constitucionales y las demandas actuales del sector.
               .row.justify-content-center.align-items.p-0.p-lg-4
                 .col-lg-12
-                  p.mb-lg-0.mb-4 #[strong Numeral 9:] desarrollo sostenible, ratifica que el turismo, como derecho social, debe contribuir al bienestar de las personas y desarrollarse en observancia de los principios del desarrollo sostenible establecidos en el artículo 3 de la Ley 99 de 1993, o en la norma que la modifique o sustituya. La actividad turística debe promover la conservación e integración del patrimonio cultural, natural y social, orientándose al mejoramiento de la calidad de vida de la población, especialmente de las comunidades receptoras. Asimismo, debe propiciar el bienestar social, el crecimiento económico, la satisfacción del visitante y la protección de los recursos naturales, evitando su agotamiento, el deterioro ambiental y cualquier afectación a los derechos de las generaciones futuras.
+                  p.mb-0 #[strong Numeral 8:] desarrollo social, económico y cultural, establece que la actividad turística, en concordancia con el artículo 52 de la Constitución Política, es un derecho social y económico que contribuye al desarrollo integral de las personas, los seres sintientes, los territorios y las comunidades. Esta actividad fomenta el uso adecuado del tiempo libre, fortalece la identidad cultural de las comunidades y debe llevarse a cabo bajo el principio de que todos los seres humanos y sintientes tienen derecho a una vida saludable y productiva en armonía con la naturaleza.
               .row.justify-content-center.align-items.p-0.p-lg-4
                 .col-lg-12
-                  p.mb-lg-0.mb-4 #[strong Numeral 12:] accesibilidad universal, establece que, en cumplimiento del artículo 13 de la Constitución Política, los destinos turísticos, los administradores de atractivos y los prestadores de servicios turísticos tienen la obligación de eliminar las barreras físicas, espaciales, comunicativas, actitudinales y de servicio que impidan el acceso, uso y disfrute del turismo de manera segura y confortable. Se deben aplicar los principios del diseño universal y realizar los ajustes razonables que aseguren una experiencia turística inclusiva para todas las personas, especialmente aquellas con discapacidad o con necesidades particulares de accesibilidad, promoviendo la igualdad de condiciones y oportunidades.
+                  p.mb-0 #[strong Numeral 9:] desarrollo sostenible, ratifica que el turismo, como derecho social, debe contribuir al bienestar de las personas y desarrollarse en observancia de los principios del desarrollo sostenible establecidos en el artículo 3 de la Ley 99 de 1993, o en la norma que la modifique o sustituya. La actividad turística debe promover la conservación e integración del patrimonio cultural, natural y social, orientándose al mejoramiento de la calidad de vida de la población, especialmente de las comunidades receptoras. Asimismo, debe propiciar el bienestar social, el crecimiento económico, la satisfacción del visitante y la protección de los recursos naturales, evitando su agotamiento, el deterioro ambiental y cualquier afectación a los derechos de las generaciones futuras.
+              .row.justify-content-center.align-items.p-0.p-lg-4
+                .col-lg-12
+                  p.mb-0 #[strong Numeral 12:] accesibilidad universal, establece que, en cumplimiento del artículo 13 de la Constitución Política, los destinos turísticos, los administradores de atractivos y los prestadores de servicios turísticos tienen la obligación de eliminar las barreras físicas, espaciales, comunicativas, actitudinales y de servicio que impidan el acceso, uso y disfrute del turismo de manera segura y confortable. Se deben aplicar los principios del diseño universal y realizar los ajustes razonables que aseguren una experiencia turística inclusiva para todas las personas, especialmente aquellas con discapacidad o con necesidades particulares de accesibilidad, promoviendo la igualdad de condiciones y oportunidades.
       
-      .mb-5
-      .tarjeta.color-adicional-1.p-4.mb-0(data-aos="fade-right")
+      .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/tema1/24.svg")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.blu Ley 2068 de 2020
-                p.mb-0 Diríjase al siguiente enlace donde podrá conocer la Ley 2068 de 2020, por el cual se modifica la Ley 300 Ley General de Turismo y se dictan otras disposiciones. 
+                h4.mb-2 Ley 2068 de 2020
+                p.mb-0 Diríjase al siguiente enlace donde podrá conocer la Ley 2068 de 2020, por el cual se modifica la Ley 300 Ley General de Turismo y se dictan otras disposiciones.
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172558#:~:text=La%20actividad%20tur%C3%ADstica%2C%20conforme%20al,la%20identidad%20cultural%20de%20las%20comunidades." target="_blank")
+                a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172558#:~:text=La%20actividad%20tur%C3%ADstica%2C%20conforme%20al,la%20identidad%20cultural%20de%20las" target="_blank")
                   span Ir al sitio
                   i.fas.fa-circle-play
-      separador
 
+      separador
       #t_1_1.titulo-segundo.color-acento-contenido.mb-5
         h2 1.1 Usuario del turismo    
       
-      .row.justify-content-center
-          .col-lg-8
-            p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
-            p.mb-4 Es fundamental señalar que una persona que se traslada de manera frecuente a un mismo lugar no se considera turista, ya que sus desplazamientos hacen parte de una ruta habitual de traslado, incluso si las distancias recorridas son considerables. En estos casos, la motivación y la frecuencia del viaje difieren de los criterios establecidos para clasificar a una persona como turista.
-          .col-lg-4.col-md-10
-            img(src='@/assets/curso/tema1/3.png', alt='')
-      .mb-5
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-8
+          p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
+          p.mb-lg-0.mb-4 Es fundamental señalar que una persona que se traslada de manera frecuente a un mismo lugar no se considera turista, ya que sus desplazamientos hacen parte de una ruta habitual de traslado, incluso si las distancias recorridas son considerables. En estos casos, la motivación y la frecuencia del viaje difieren de los criterios establecidos para clasificar a una persona como turista.
+        .col-lg-4.col-md-9.col-10
+          img(src='@/assets/curso/tema1/3.png', alt='')
+
       
       .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
         h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Características del usuario de turismo 
       
-      .row
-        .col-lg-12
-          p.mb-4 El usuario del turismo es una persona que se desplaza temporalmente hacia un destino, por lo general lejano a su lugar de residencia habitual, con el propósito de participar en diversas actividades turísticas. Estas actividades pueden tener un carácter recreativo, cultural, médico, gastronómico, científico, ecológico, arqueológico, religioso, entre otros.
-      
+      p.mb-4 El usuario del turismo, también denominado turista, es una persona que se desplaza voluntariamente fuera de su lugar de residencia habitual con fines no laborales ni permanentes. Este desplazamiento obedece a diferentes motivaciones y cumple con ciertas condiciones que permiten clasificarlo como tal. A continuación, se describen sus principales características:
+
       .row.fndd.p-4.p-lg-5.p-md-3.mb-5(data-aos="fade-down")
         .col-lg-12
           
@@ -121,118 +119,118 @@
                         h5.text-center.mb-0.my-1.ps-2.pe-2 Uso de servicios de hospedaje 
                   p.mb-0.text-center(data-aos="fade-right") Durante su estadía, el turista hace uso de algún tipo de alojamiento temporal, ya sea en hoteles, hostales, viviendas turísticas, casas de familiares o amigos, entre otros.
 
-      .row
-        .col-lg-12
-          p.mb-4 Estas características se enmarcan en los criterios establecidos por organismos internacionales como la Organización Mundial del Turismo (OMT), que busca estandarizar la definición y clasificación del turista para facilitar el análisis del comportamiento de la demanda turística y la formulación de políticas públicas en el sector.
+      p.mb-5 Estas características se enmarcan en los criterios establecidos por organismos internacionales como la Organización Mundial del Turismo (OMT), que busca estandarizar la definición y clasificación del turista para facilitar el análisis del comportamiento de la demanda turística y la formulación de políticas públicas en el sector.
       
       
       .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
         h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Tipos de turistas  
       
-      .row.tipoturista
+      .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
           p.mb-4 El turismo es una actividad diversa que responde a las distintas motivaciones, intereses y estilos de vida de las personas. Cada viajero posee un perfil propio al momento de desplazarse, lo que enriquece la oferta turística y exige una atención diferenciada por parte de los prestadores de servicios del sector. 
-          .d-flex.align-items-center.gap-3.mb-3
-            img(src='@/assets/curso/tema1/13.svg', alt='').imagenpeq.imagehide 
-            p.mb-0.fondo Existen diferentes tipos de turistas, clasificados según sus preferencias, comportamientos y objetivos de viaje. Reconocer estas tipologías no solo permite personalizar las experiencias, sino que también facilita la planeación y promoción de destinos turísticos más acordes a las expectativas de los visitantes.
-          p.mb-2 Por ejemplo, los turistas alocéntricos buscan experiencias auténticas y se adaptan fácilmente al entorno social, cultural y físico del lugar que visitan. En contraste, los turistas hedonistas o de placer priorizan la relajación y la recreación. También se encuentran los turistas peregrinos, cuyo principal interés es cumplir con fines espirituales o religiosos. Comprender estos perfiles resulta fundamental tanto para la industria del turismo como para quienes diseñan servicios y planes de viaje.
+          .row.justify-content-center.align-items-center.mb-4
+            .col-lg-2
+              img.img-t.img-a.d-none.d-lg-block(src='@/assets/curso/tema1/13.svg', alt='') 
+            .col-lg-10.ps-lg-0
+              .bg1.p-3
+                p.mb-0 Existen diferentes tipos de turistas, clasificados según sus preferencias, comportamientos y objetivos de viaje. Reconocer estas tipologías no solo permite personalizar las experiencias, sino que también facilita la planeación y promoción de destinos turísticos más acordes a las expectativas de los visitantes.
+          p.mb-0 Por ejemplo, los turistas alocéntricos buscan experiencias auténticas y se adaptan fácilmente al entorno social, cultural y físico del lugar que visitan. En contraste, los turistas hedonistas o de placer priorizan la relajación y la recreación. También se encuentran los turistas peregrinos, cuyo principal interés es cumplir con fines espirituales o religiosos. Comprender estos perfiles resulta fundamental tanto para la industria del turismo como para quienes diseñan servicios y planes de viaje.
         .col-lg-4
-          img.d-none.d-lg-block.mb-lg-4(src='@/assets/curso/tema1/12.png', alt='')
-      .mb-2
-      .row
-        .col-lg-12
-          p.mb-4 La Organización Mundial del Turismo (OMT) clasifica a los turistas con base en los motivos que impulsan sus desplazamientos. A continuación, se describen algunas de las tipologías más comunes :
+          img.d-none.d-lg-block(src='@/assets/curso/tema1/12.png', alt='')
 
-      .row
-       .col-lg-12.col-md-12.targetaslyder
-          SlyderF.slyder2.circl-arrow.mb-5(columnas="col-lg-6 col-md-6 col-xl-4")(data-aos="fade-left")
+      p.mb-5 La Organización Mundial del Turismo (OMT) clasifica a los turistas con base en los motivos que impulsan sus desplazamientos. A continuación, se describen algunas de las tipologías más comunes :
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          SlyderF(columnas="col-lg-6 col-md-6 col-xl-4")(data-aos="fade-left")
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista de aventura 
               img.mb-3(src='@/assets/curso/tema1/14.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Busca emociones fuertes, contacto directo con la naturaleza y desafíos físicos. Practica actividades como escalada, #[em trekking], buceo, parapente, entre otras.
+                  p.mb-0 Busca emociones fuertes, contacto directo con la naturaleza y desafíos físicos. Practica actividades como escalada, #[em trekking], buceo, parapente, entre otras.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista cultural 
               img.mb-3(src='@/assets/curso/tema1/15.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Se interesa por el arte, la historia, las tradiciones y las expresiones culturales de los pueblos. Participa en festivales, realiza visitas a museos, sitios históricos y patrimonios culturales.
+                  p.mb-0 Se interesa por el arte, la historia, las tradiciones y las expresiones culturales de los pueblos. Participa en festivales, realiza visitas a museos, sitios históricos y patrimonios culturales.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista gastronómico 
               img.mb-3(src='@/assets/curso/tema1/16.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Explora la cultura de los destinos a través de su cocina. Visita mercados locales, restaurantes tradicionales y realiza talleres culinarios o degustaciones.
+                  p.mb-0 Explora la cultura de los destinos a través de su cocina. Visita mercados locales, restaurantes tradicionales y realiza talleres culinarios o degustaciones.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista de negocios 
               img.mb-3(src='@/assets/curso/tema1/17.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Se desplaza por razones laborales. Su viaje incluye asistencia a reuniones, ferias, congresos y actividades vinculadas al mundo empresarial.
+                  p.mb-0 Se desplaza por razones laborales. Su viaje incluye asistencia a reuniones, ferias, congresos y actividades vinculadas al mundo empresarial.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista de salud
               img.mb-3(src='@/assets/curso/tema1/18.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Viaja con el propósito de recibir atención médica o mejorar su bienestar. Incluye quienes acceden a tratamientos en clínicas, spas, centros de rehabilitación o terapias alternativas.
+                  p.mb-0 Viaja con el propósito de recibir atención médica o mejorar su bienestar. Incluye quienes acceden a tratamientos en clínicas, #[em spas], centros de rehabilitación o terapias alternativas.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista recreativo
               img.mb-3(src='@/assets/curso/tema1/19.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Busca principalmente el entretenimiento , la diversión y el descanso. Dentro de esta categoría se encuentra el turismo de sol y playa, parques temáticos, centros vacacionales, entre otros.
+                  p.mb-0 Busca principalmente el entretenimiento, la diversión y el descanso. Dentro de esta categoría se encuentra el turismo de sol y playa, parques temáticos, centros vacacionales, entre otros.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista ecológico o ecoturista 
               img.mb-3(src='@/assets/curso/tema1/20.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Realiza actividades en contacto con la naturaleza, priorizando la conservación del medio ambiente y el respeto por las comunidades locales. Practica senderismo, avistamiento de fauna, turismo rural, entre otros.
+                  p.mb-0 Realiza actividades en contacto con la naturaleza, priorizando la conservación del medio ambiente y el respeto por las comunidades locales. Practica senderismo, avistamiento de fauna, turismo rural, entre otros.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista  religioso 
               img.mb-3(src='@/assets/curso/tema1/21.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Se moviliza con fines espirituales o de fe. Visita lugares sagrados, participa en peregrinaciones, rituales, celebraciones litúrgicas y escucha oratorias religiosas.
+                  p.mb-0 Se moviliza con fines espirituales o de fe. Visita lugares sagrados, participa en peregrinaciones, rituales, celebraciones litúrgicas y escucha oratorias religiosas.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista arqueológico 
               img.mb-3(src='@/assets/curso/tema1/22.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Se interesa por la contemplación, estudio y valoración del patrimonio arqueológico. Visita yacimientos, ruinas, monumentos antiguos y museos especializados.
+                  p.mb-0 Se interesa por la contemplación, estudio y valoración del patrimonio arqueológico. Visita yacimientos, ruinas, monumentos antiguos y museos especializados.
             .tarjeta.tarjeta-btn.p-4
               .title.mb-4
                 h4.text-center.mb-0 Turista científico  
               img.mb-3(src='@/assets/curso/tema1/23.png', alt='')
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-12
-                  p.text-center Se enfoca en la adquisición o divulgación de conocimientos científicos. Puede realizar investigaciones, expediciones, observaciones de fenómenos naturales o actividades educativas relacionadas con la ciencia.
-      .row
-        .col-lg-12
-          p.mb-4 Esta clasificación no es excluyente, ya que un mismo turista puede compartir características de diferentes perfiles según el contexto de su viaje. La correcta identificación de estos tipos resulta clave para el diseño de estrategias de #[em marketing], planificación territorial y mejora continua de la oferta turística.
-      .tarjeta.color-adicional-1.p-4.mb-0
+                  p.mb-0 Se enfoca en la adquisición o divulgación de conocimientos científicos. Puede realizar investigaciones, expediciones, observaciones de fenómenos naturales o actividades educativas relacionadas con la ciencia.
+
+      p.mb-4 Esta clasificación no es excluyente, ya que un mismo turista puede compartir características de diferentes perfiles según el contexto de su viaje. La correcta identificación de estos tipos resulta clave para el diseño de estrategias de #[em marketing], planificación territorial y mejora continua de la oferta turística.
+      
+      .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/tema1/2.svg")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.blu TURISMO | ¿Qué es El Turismo? Beneficios y Tipos de Turistas
+                h4.mb-2 TURISMO | ¿Qué es El Turismo? Beneficios y Tipos de Turistas
                 p.mb-0 Para fortalecer el tema anteriormente abordado, se invita a consultar  el siguiente video.
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Ri6oC8GEXHM" target="_blank")
                   span Ir al sitio
                   i.fas.fa-circle-play
+      
     </template>
 
 <script>

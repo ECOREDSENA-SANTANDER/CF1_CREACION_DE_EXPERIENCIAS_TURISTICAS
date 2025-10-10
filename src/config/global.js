@@ -2,9 +2,9 @@ export default {
   global: {
     Name: 'Conexiones turísticas - tejiendo experiencias',
     Description:
-      'Para incursionar en la creación de experiencias turísticas resulta esencial comprender los conceptos que sustentan esta actividad. Esto incluye el análisis de los tipos de turistas, sus motivaciones y características, así como de los servicios turísticos, su funcionamiento y su relevancia en la generación de vivencias significativas. También se consideran las dinámicas del mercado, la cadena de valor, la relación entre oferta y demanda y las tendencias actuales que inciden en los viajes. Estos elementos, junto con la innovación en los servicios y la transformación de los destinos, constituyen la base para diseñar propuestas turísticas pertinentes, sostenibles y acordes con las expectativas del viajero.',
+      'Para incursionar en la creación de experiencias turísticas resulta esencial comprender los conceptos que sustentan esta actividad. Esto incluye el análisis de los tipos de turistas, sus motivaciones y características, así como de los servicios turísticos, su funcionamiento y su relevancia en la generación de vivencias significativas.<br><br> También se consideran las dinámicas del mercado, la cadena de valor, la relación entre oferta y demanda y las tendencias actuales que inciden en los viajes. Estos elementos, junto con la innovación en los servicios y la transformación de los destinos, constituyen la base para diseñar propuestas turísticas pertinentes, sostenibles y acordes con las expectativas del viajero.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -132,14 +132,14 @@ export default {
   complementario: [
     {
       tema: 'Servicios turísticos',
-      referencia: 'Glosario de términos de turismo | OMT. (s. f.).',
+      referencia: 'ONU Turismo. (s.f.). Glosario de términos de turismo.',
       tipo: 'Pág. Del organismo especializado de las Naciones Unidas.',
       link: 'https://www.unwto.org/es/glosario-terminos-turisticos',
     },
     {
       tema: 'Mercado del turismo',
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. Colombia potencia de la vida. Manual de buenas prácticas de turismo responsable.',
+        'Ministerio de Comercio, Industria y Turismo – Portur Colombia. (s.f.). Manual de buenas prácticas de turismo responsable.',
       tipo: 'Manual.',
       link:
         'https://portucolombia.mincit.gov.co/portal_turistico_colombia/media/observatorioturistico/Pdf/Manual-de-buenas-practicas-de-Turismo-Responsable.pdf',
@@ -147,7 +147,7 @@ export default {
     {
       tema: 'Cadena de valor',
       referencia:
-        'Pulido Fernández. Juan Ignacio (2013). Gestión estratégica sostenible de destinos turísticos. Sevilla. Universidad Internacional de Andalucía.',
+        'Pulido Fernández, J. I. (2013). Gestión estratégica sostenible de destinos turísticos. Sevilla: Universidad Internacional de Andalucía.',
       tipo: 'Libro.',
       link:
         'https://dspace.unia.es/bitstream/handle/10334/7894/13_Pulido.pdf?sequence=1&isAllowed=y#:~:text=La%20cadena%20de%20valor%20del%20destino%20tur%C3%ADstico%20se%20puede%20definir,comercio%20electr%C3%B3nico%2D%20y%20los%20turistas',
@@ -212,7 +212,7 @@ export default {
     {
       termino: 'Turismo de bienestar',
       significado:
-        'modalidad turística orientada al descanso, la salud física y emocional, mediante experiencias como retiros, spas, terapias alternativas y actividades de relajación.',
+        'modalidad turística orientada al descanso, la salud física y emocional, mediante experiencias como retiros, <em>spas</em>, terapias alternativas y actividades de relajación.',
     },
     {
       termino: 'Turistas alocéntricos',
@@ -227,12 +227,14 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Ceupe. (2022). Turista. Ceupe.',
+      referencia:
+        'Ceupe. (2022). ¿Qué es un turista? Concepto, características y tipos. Ceupe.',
       link:
         'https://www.ceupe.com/blog/turista.html#:~:text=Un%20turista%20es%20una%20persona,%2C%20arqueol%C3%B3gico%2C%20religioso%2C%20etc',
     },
     {
-      referencia: 'Ceupe. (2022). Servicios turísticos. Ceupe.',
+      referencia:
+        'Ceupe. (2022). Servicios turísticos: Qué son, tipos e importancia. Ceupe.',
       link:
         'https://www.ceupe.com/blog/servicios-turisticos.html#:~:text=Los%20servicios%20tur%C3%ADsticos%20son%20el,%2C%20alimentaci%C3%B3n%2C%20transporte%20y%20gu%C3%ADa',
     },
@@ -250,25 +252,24 @@ export default {
     },
     {
       referencia:
-        'Socatelli P., M. A. (2013). Mercadeo aplicado al turismo: La comercialización de servicios, productos y destinos turísticos sostenibles (pp. 1–4). Intermarck – Consultores en Turismo.',
+        'Socatelli P. M. A. (2013). Mercadeo aplicado al turismo: La comercialización de servicios, productos y destinos turísticos sostenibles (pp. 1–4). Intermarck – Consultores en Turismo.',
       link:
         'https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.1.pdf',
     },
     {
       referencia:
-        'Staff Entorno Turístico. (2025). Características de los servicios turísticos. Entorno Turístico.',
+        'Entorno Turístico Staff. (2021, febrero 26). Características de los servicios turísticos. Entorno Turístico.',
       link:
-        'https://www.entornoturistico.com/caracteristicas-de-los-servicios-turisticos/#Intangibles',
+        'https://www.entornoturistico.com/caracteristicas-de-los-servicios-turisticos/',
     },
     {
       referencia:
-        'Turismo y Sostenibilidad. (2013, octubre 24). Cadena de valor en turismo.',
+        'Turismo y Sostenibilidad. (2013). Cadena de valor en turismo.',
       link:
         'https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/',
     },
     {
-      referencia:
-        'Vidal, S., & ILERNA. (2024). Servicios turísticos: Qué son y qué tipos hay (+ ejemplos). Blog ILERNA Online: FP a distancia con titulación oficial.',
+      referencia: 'Vidal, S. (2023). Tipos de servicios turísticos. ILERNA.',
       link:
         'https://www.ilerna.es/blog/tipos-servicios-turisticos#:~:text=y%20toma%20nota.-,%C2%BFQu%C3%A9%20es%20un%20servicio%20tur%C3%ADstico?,transporte%2C%20gu%C3%ADas%20tur%C3%ADsticas%20y%20m%C3%A1s',
     },
@@ -295,12 +296,12 @@ export default {
         {
           nombre: 'Aurora Milena Parada Ortega',
           cargo: 'Experta Temática',
-          centro: 'Regional Santander - Centro Agroturístico.',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora instruccional',
-          centro: 'Regional Santander - Centro Agroturístico.',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -313,7 +314,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Diego Fernando Herrera Ardila',
+          nombre: 'Pedro Alonso Bolivar González',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -333,7 +334,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
