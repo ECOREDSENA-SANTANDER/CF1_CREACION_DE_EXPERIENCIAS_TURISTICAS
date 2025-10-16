@@ -133,7 +133,7 @@ export default {
     {
       tema: 'Servicios turísticos',
       referencia: 'ONU Turismo. (s.f.). Glosario de términos de turismo.',
-      tipo: 'Pág. Del organismo especializado de las Naciones Unidas.',
+      tipo: 'Página web',
       link: 'https://www.unwto.org/es/glosario-terminos-turisticos',
     },
     {
@@ -335,7 +335,7 @@ export default {
         },
         {
           nombre: 'Andrea Ardila Chaparro',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
