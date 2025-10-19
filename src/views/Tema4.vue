@@ -138,7 +138,7 @@
                   .col-lg-5.col-md-9
                     img(src='@/assets/curso/tema4/13.png', alt='') 
     
-    .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
+    .titulo2.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
         h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Nuevos perfiles de viajeros  
         

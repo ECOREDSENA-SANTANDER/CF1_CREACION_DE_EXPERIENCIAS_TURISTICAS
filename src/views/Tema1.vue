@@ -74,8 +74,8 @@
           .row.justify-content-center.align-items-end.mb-0(data-aos="fade-left")
             .col-lg-4.col-md-5.col-7
               img.img-t.d-none.d-lg-block.mva(src='@/assets/curso/tema1/5.png', alt='')
-            .col-lg-8.mb-lg-0.mb-4
-              SlyderF(columnas="col-lg-6 col-md-6 col-xl-6")
+            .col-lg-8.mb-0
+              SlyderF.bru(columnas="col-lg-6 col-md-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.b2.p-3.p-lg-3.p-md-3
                   .row.justify-content-center.mb-3
                     .col-9.my-4
@@ -122,7 +122,7 @@
       p.mb-5 Estas características se enmarcan en los criterios establecidos por organismos internacionales como la Organización Mundial del Turismo (OMT), que busca estandarizar la definición y clasificación del turista para facilitar el análisis del comportamiento de la demanda turística y la formulación de políticas públicas en el sector.
       
       
-      .titulo.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
+      .titulo1.mb-lg-5.mb-4.mb-md-5.ps-2.pe-2.pe-lg-2.ps-lg-5.pe-md-0.ps-md-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
         h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Tipos de turistas  
       

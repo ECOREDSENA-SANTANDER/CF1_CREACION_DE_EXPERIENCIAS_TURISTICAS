@@ -75,7 +75,7 @@
     
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.mb-lg-0.mb-4
         ul.lista-ul
           li.d-flex.mb-4
             i.fas.fa-circle-check

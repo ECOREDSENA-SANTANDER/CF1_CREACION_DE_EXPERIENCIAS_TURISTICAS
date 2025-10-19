@@ -33,14 +33,14 @@
     .row.fd2.justify-content-center.align-items-center.p-2.mb-0(data-aos="fade-down")
       .col-lg-12.px-lg-5.px-4.mb-0
 
-        p.mb-4 Desde el enfoque del #[em marketing] turístico, es importante considerar las siguientes características  clave:
+        p.mb-4.mx-md-3.mx-lg-0.mx-0 Desde el enfoque del #[em marketing] turístico, es importante considerar las siguientes características  clave:
     
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-10
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-6.col-md-6
-                img.img-t.mb-4(src='@/assets/curso/tema2/5.svg', alt='')
-                p.mb-4 #[strong Intangibilidad:] los servicios turísticos no se pueden tocar, probar ni almacenar antes de su consumo. Su valor es percibido únicamente en el momento de la experiencia.
+                img.img-t.mb-4.mx-md-3.mx-lg-0.mx-0(src='@/assets/curso/tema2/5.svg', alt='')
+                p.mb-4.mx-md-3.mx-lg-0.mx-0 #[strong Intangibilidad:] los servicios turísticos no se pueden tocar, probar ni almacenar antes de su consumo. Su valor es percibido únicamente en el momento de la experiencia.
               .col-lg-6.col-md-6
                 img.img-t.mb-4(src='@/assets/curso/tema2/6.svg', alt='')
                 p.mb-4 #[strong Inseparabilidad:] la producción y el consumo del servicio ocurren de forma simultánea, por lo que la calidad depende de la interacción entre el turista y el prestador del servicio.
@@ -48,11 +48,11 @@
           .col-lg-10
             .row.justify-content.align-items-center.mb-0
               .col-lg-6.col-md-6
-                img.img-t.mb-4(src='@/assets/curso/tema2/7.svg', alt='')
-                p.mb-4 #[strong Variabilidad:] dado que los servicios involucran contacto humano, su calidad puede variar según la persona que lo presta, el momento y el contexto. Esta variabilidad es un desafío para las organizaciones, que deben garantizar consistencia y estandarización en cada experiencia.
+                img.img-t.mb-4.mx-md-3.mx-lg-0.mx-0(src='@/assets/curso/tema2/7.svg', alt='')
+                p.mb-4.mx-md-3.mx-lg-0.mx-0 #[strong Variabilidad:] dado que los servicios involucran contacto humano, su calidad puede variar según la persona que lo presta, el momento y el contexto. Esta variabilidad es un desafío para las organizaciones, que deben garantizar consistencia y estandarización en cada experiencia.
               .col-lg-6.col-md-6
-                img.img-t.mb-4(src='@/assets/curso/tema2/8.svg', alt='')
-                p.mb-4 #[strong Perecibilidad:] los servicios no pueden almacenarse ni venderse en otro momento. Por ejemplo, una habitación de hotel que no se ocupa en una noche representa una pérdida irrecuperable. Esta característica obliga a optimizar la capacidad instalada y la gestión de la demanda.
+                img.img-t.mb-4.mx-md-3.mx-lg-0.mx-0(src='@/assets/curso/tema2/8.svg', alt='')
+                p.mb-4.mx-md-3.mx-lg-0.mx-0 #[strong Perecibilidad:] los servicios no pueden almacenarse ni venderse en otro momento. Por ejemplo, una habitación de hotel que no se ocupa en una noche representa una pérdida irrecuperable. Esta característica obliga a optimizar la capacidad instalada y la gestión de la demanda.
             
     
     separador
