@@ -295,7 +295,7 @@ export default {
       autores: [
         {
           nombre: 'Aurora Milena Parada Ortega',
-          cargo: 'Experta Temática',
+          cargo: 'Experta temática',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

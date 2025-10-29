@@ -44,12 +44,12 @@
               .col-lg-6.col-md-6
                 img.img-t.mb-4(src='@/assets/curso/tema2/6.svg', alt='')
                 p.mb-4 #[strong Inseparabilidad:] la producción y el consumo del servicio ocurren de forma simultánea, por lo que la calidad depende de la interacción entre el turista y el prestador del servicio.
-        .row.justify-content-center.align-items-center.mb-0
+        .row.justify-content-center.align-items.mb-0
           .col-lg-10
             .row.justify-content.align-items-center.mb-0
               .col-lg-6.col-md-6
                 img.img-t.mb-4.mx-md-3.mx-lg-0.mx-0(src='@/assets/curso/tema2/7.svg', alt='')
-                p.mb-4.mx-md-3.mx-lg-0.mx-0 #[strong Variabilidad:] dado que los servicios involucran contacto humano, su calidad puede variar según la persona que lo presta, el momento y el contexto. Esta variabilidad es un desafío para las organizaciones, que deben garantizar consistencia y estandarización en cada experiencia.
+                p.mb-lg-5.mb-4.mx-md-3.mx-lg-0.mx-0 #[strong Variabilidad:] dado que los servicios involucran contacto humano, su calidad puede variar según la persona que lo presta, el momento y el contexto. Esta variabilidad es un desafío para las organizaciones, que deben garantizar consistencia y estandarización en cada experiencia.
               .col-lg-6.col-md-6
                 img.img-t.mb-4.mx-md-3.mx-lg-0.mx-0(src='@/assets/curso/tema2/8.svg', alt='')
                 p.mb-4.mx-md-3.mx-lg-0.mx-0 #[strong Perecibilidad:] los servicios no pueden almacenarse ni venderse en otro momento. Por ejemplo, una habitación de hotel que no se ocupa en una noche representa una pérdida irrecuperable. Esta característica obliga a optimizar la capacidad instalada y la gestión de la demanda.
@@ -59,13 +59,13 @@
     #t_2_1.titulo-segundo.color-acento-contenido.mb-5
       h2 2.1 Tipos de servicios turísticos 
 
-    p.mb-4 Los principales tipos de servicios turísticos se clasifican en las siguientes categorías :
+    p.mb-4 Los principales tipos de servicios turísticos se clasifican en las siguientes categorías:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
           .row.col-xl-11.m-auto(titulo="a) Servicios de alojamiento")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-0 Incluyen todos los establecimientos que ofrecen hospedaje temporal a los turistas. Constituyen uno de los componentes más importantes del turismo, ya que representan el lugar de llegada, descanso y resguardo del visitante. Según su categoría, estos pueden ofrecer servicios complementarios como restaurantes, entretenimiento, zonas de bienestar y actividades recreativas.
                 .mb-4
@@ -79,11 +79,11 @@
                     i.fas.fa-circle-check
                     p.mb-0 #[strong Alojamientos rurales o naturales:] ubicados en entornos donde predomina la naturaleza, como playas, montañas o bosques.
           .row.col-xl-11.m-auto(titulo="b) Servicios de alimentación")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-0 Son fundamentales para la satisfacción integral del turista. Pueden encontrarse dentro de los alojamientos (restaurantes de hotel) o como establecimientos independientes. Además del valor nutricional, la alimentación representa una forma de experimentar la cultura local, lo que da lugar a propuestas gastronómicas tradicionales, internacionales o de autor.
           .row.col-xl-11.m-auto(titulo="c) Servicios de transporte")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-0 Facilitan el desplazamiento de los turistas hacia, dentro y entre los destinos. Incluyen también el traslado de equipajes y mercancías asociadas a la estancia.
                 .mb-4
@@ -98,17 +98,17 @@
                     i.fas.fa-circle-check
                     p.mb-0 #[strong Transporte acuático:] cruceros, ferris, yates, veleros, botes a motor o remo.
           .row.col-xl-11.m-auto(titulo="d) Servicios de guía turística")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-0 Son proporcionados por profesionales formados para orientar, acompañar e informar a los visitantes. El guía interpreta el patrimonio natural y cultural del destino, garantiza la seguridad del grupo y enriquece la experiencia del viajero al brindar datos relevantes, recomendaciones y contexto histórico o ambiental.
           .row.col-xl-11.m-auto(titulo="e) Servicios de animación turística")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-0 Consisten en actividades diseñadas para entretener, motivar y promover la participación de los turistas durante su estancia. Estas pueden desarrollarse en hoteles, cruceros, parques, playas, zonas rurales o centros recreativos, y suelen adaptarse al perfil del visitante (edad, intereses, cultura).
         
     p.mb-4 Las actividades de animación contribuyen a que el turista viva una experiencia placentera, dinámica y memorable, aumentando su nivel de satisfacción y su probabilidad de regreso.
 
-    .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-0
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/2.svg")

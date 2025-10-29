@@ -257,7 +257,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad Conexiones turísticas – tejiendo experiencias. ¡Siga explorando este fascinante mundo del turismo¡',
+        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad Conexiones turísticas – tejiendo experiencias. Siga explorando este fascinante mundo del turismo.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

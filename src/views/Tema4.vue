@@ -62,7 +62,7 @@
                 .row.justify-content-center.align-items-center.mb-0
                   .col-lg-7
                     h4.mb-4 Sostenibilidad como eje central
-                    p.mb-4.mb-lg-0 Con el aumento de la conciencia ambiental y social, el turismo sostenible continuará posicionándose como una prioridad. Se espera que los viajeros opten cada vez más por alojamientos ecológicos, medios de transporte con bajas emisiones de carbono, y experiencias que generen un impacto positivo en los ecosistemas y en las comunidades locales. Esta tendencia también impulsa la economía circular, el consumo responsable y el respeto por la identidad cultural de los destinos
+                    p.mb-4.mb-lg-0 Con el aumento de la conciencia ambiental y social, el turismo sostenible continuará posicionándose como una prioridad. Se espera que los viajeros opten cada vez más por alojamientos ecológicos, medios de transporte con bajas emisiones de carbono, y experiencias que generen un impacto positivo en los ecosistemas y en las comunidades locales. Esta tendencia también impulsa la economía circular, el consumo responsable y el respeto por la identidad cultural de los destinos.
                   .col-lg-5.col-md-9
                     img(src='@/assets/curso/tema4/4.png', alt='')
             .row.justify-content-center.align-items.p-0.p-lg-4
@@ -142,7 +142,7 @@
         img(src='@/assets/curso/tema1/4.svg', alt='Imagen decorativa')
         h3.mb-0.mx-lg-4.mx-3.mx-md-4.ps-lg-3 Nuevos perfiles de viajeros  
         
-    p.mb-4  El público viajero también está cambiando. En el último informe #[em Changing Traveller Report de SiteMinder] se descubren 4 públicos claves :
+    p.mb-4  El público viajero también está cambiando. En el último informe #[em Changing Traveller Report de SiteMinder] se descubren 4 públicos claves:
     
     .row.justify-content-center.mb-4(data-aos="fade-down").tarjetasfundamentales
       .col-lg-3.col-md-6.mb-3.colornaranja1
@@ -172,7 +172,7 @@
             .col-4.col-lg-5.col-md-5
               img(src='@/assets/curso/tema4/17.svg', alt='')
           p.mb-0 #[strong El colaborador consciente] 
-          p.mb-0 viajero ético y comprometido que busca generar impacto positivo, elige alojamientos responsables y apoya prácticas sostenibles, justas e inclusivas en el destino.
+          p.mb-0 Viajero ético y comprometido que busca generar impacto positivo, elige alojamientos responsables y apoya prácticas sostenibles, justas e inclusivas en el destino.
 
     p.mb-0 Estos perfiles reflejan los cambios profundos en las motivaciones de los turistas, que cada vez valoran más la autenticidad, la sostenibilidad, el bienestar y la conexión emocional. Comprender y adaptarse a estas tendencias es clave para que el sector turístico siga siendo competitivo, resiliente e innovador frente a los desafíos del presente y del futuro.
 

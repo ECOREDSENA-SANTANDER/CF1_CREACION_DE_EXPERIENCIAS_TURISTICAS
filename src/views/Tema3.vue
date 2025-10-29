@@ -26,7 +26,7 @@
 
     p.mb-4 Un sistema, en términos generales, es un conjunto de elementos interrelacionados que trabajan coordinadamente para alcanzar un propósito específico. En el caso del turismo, este propósito es ofrecer una experiencia satisfactoria al visitante, desde su lugar de origen hasta el destino, e incluso durante su retorno.
     
-    p.mb-4 La Organización Mundial del Turismo (OMT) define el sistema turístico como la articulación de cuatro elementos fundamentales :
+    p.mb-4 La Organización Mundial del Turismo (OMT) define el sistema turístico como la articulación de cuatro elementos fundamentales:
     
     .row.justify-content-center.mb-4(data-aos="fade-down").tarjetasfundamentales
       .col-lg-3.col-md-6.mb-3.cologris
@@ -71,7 +71,7 @@
       .col-lg-1
         img.d-none.d-lg-block(src='@/assets/curso/tema3/8.svg', alt='')
       .col-lg-11
-        p.mb-0 Para comprender el funcionamiento del sistema turístico es necesario identificar los elementos que lo conforman y cómo interactúan entre sí. Este sistema, entendido como un conjunto de componentes interrelacionados que evolucionan dinámicamente, permite la generación, promoción y consumo de productos y servicios turísticos. La Organización Mundial del Turismo (OMT) establece que el sistema turístico se compone de cuatro elementos fundamentales, los cuales se describen a continuación :
+        p.mb-0 Para comprender el funcionamiento del sistema turístico es necesario identificar los elementos que lo conforman y cómo interactúan entre sí. Este sistema, entendido como un conjunto de componentes interrelacionados que evolucionan dinámicamente, permite la generación, promoción y consumo de productos y servicios turísticos. La Organización Mundial del Turismo (OMT) establece que el sistema turístico se compone de cuatro elementos fundamentales, los cuales se describen a continuación:
     
 
     .row.justify-content-center.align-items-center.mb-5
@@ -92,7 +92,7 @@
       .col-lg-4.col-md-9.col-10
         img(src='@/assets/curso/tema3/9.png', alt='')
 
-    .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-0
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema3/10.svg")
@@ -158,7 +158,7 @@
             figcaption.des Fuente: https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/
           
   
-    .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-4.mb-0
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/2.svg")

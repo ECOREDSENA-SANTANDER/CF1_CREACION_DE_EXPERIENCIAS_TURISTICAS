@@ -36,7 +36,7 @@
                 .col-lg-12
                   p.mb-0 #[strong Numeral 12:] accesibilidad universal, establece que, en cumplimiento del artículo 13 de la Constitución Política, los destinos turísticos, los administradores de atractivos y los prestadores de servicios turísticos tienen la obligación de eliminar las barreras físicas, espaciales, comunicativas, actitudinales y de servicio que impidan el acceso, uso y disfrute del turismo de manera segura y confortable. Se deben aplicar los principios del diseño universal y realizar los ajustes razonables que aseguren una experiencia turística inclusiva para todas las personas, especialmente aquellas con discapacidad o con necesidades particulares de accesibilidad, promoviendo la igualdad de condiciones y oportunidades.
       
-      .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
+      .tarjeta.color-acento-contenido.p-4.mb-0
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/tema1/24.svg")
@@ -139,7 +139,7 @@
         .col-lg-4
           img.d-none.d-lg-block(src='@/assets/curso/tema1/12.png', alt='')
 
-      p.mb-5 La Organización Mundial del Turismo (OMT) clasifica a los turistas con base en los motivos que impulsan sus desplazamientos. A continuación, se describen algunas de las tipologías más comunes :
+      p.mb-5 La Organización Mundial del Turismo (OMT) clasifica a los turistas con base en los motivos que impulsan sus desplazamientos. A continuación, se describen algunas de las tipologías más comunes:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
@@ -217,7 +217,7 @@
 
       p.mb-4 Esta clasificación no es excluyente, ya que un mismo turista puede compartir características de diferentes perfiles según el contexto de su viaje. La correcta identificación de estos tipos resulta clave para el diseño de estrategias de #[em marketing], planificación territorial y mejora continua de la oferta turística.
       
-      .tarjeta.color-acento-contenido.p-4.mb-0(data-aos="fade-right")
+      .tarjeta.color-acento-contenido.p-4.mb-0
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/tema1/2.svg")
