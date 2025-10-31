@@ -246,21 +246,33 @@ export default {
     },
     {
       referencia:
+        'Entorno Turístico Staff. (2021, febrero 26). Características de los servicios turísticos. Entorno Turístico.',
+      link:
+        'https://www.entornoturistico.com/caracteristicas-de-los-servicios-turisticos/',
+    },
+    {
+      referencia:
         'Herrero, B. L. (2024). Tipos de turistas: ¿Cuáles existen? Características. Qamarero.',
       link:
         'https://qamarero.com/blog/tipos-de-turistas-cuales-existen-caracteristicas/',
     },
     {
       referencia:
-        'Socatelli P. M. A. (2013). Mercadeo aplicado al turismo: La comercialización de servicios, productos y destinos turísticos sostenibles (pp. 1–4). Intermarck – Consultores en Turismo.',
+        'Martín, B. (2013, octubre 24). Cadena de valor en turismo. Turismo y Sostenibilidad.',
+      link:
+        'https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/',
+    },
+    {
+      referencia:
+        'Socatelli P., M. A. (2013). Mercadeo aplicado al turismo: La comercialización de servicios, productos y destinos turísticos sostenibles. Universidad Estatal a Distancia (UNED).',
       link:
         'https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.1.pdf',
     },
     {
       referencia:
-        'Entorno Turístico Staff. (2021, febrero 26). Características de los servicios turísticos. Entorno Turístico.',
+        'Socatelli P. M. A. (2013). Mercadeo aplicado al turismo: La comercialización de servicios, productos y destinos turísticos sostenibles (pp. 1–4). Intermarck – Consultores en Turismo.',
       link:
-        'https://www.entornoturistico.com/caracteristicas-de-los-servicios-turisticos/',
+        'https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.1.pdf',
     },
     {
       referencia:

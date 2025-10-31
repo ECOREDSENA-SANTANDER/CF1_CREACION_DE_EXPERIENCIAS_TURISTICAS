@@ -64,7 +64,7 @@
       .col-lg-10
         p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 1.] Sistema turístico 
         img.mb-2(src='@/assets/curso/tema3/17.png', alt='Sistema turístico según la Organización Mundial del Turismo (OMT) compuesto por demanda, oferta, espacio geográfico y operadores del mercado, todos interrelacionados.')
-        figcaption.des Fuente: https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.1.pdf
+        figcaption.des Fuente: Socatelli P, (2013). 
 
       
     .row.justify-content-center.align-items-center.mb-5
@@ -120,8 +120,8 @@
       .col-lg-12
         p.mb-4.titulo-sexto.color-acento-contenido #[strong Figura 2.] Cadena de valor del turismo 
         img.mb-2(src='@/assets/curso/tema3/12.png', alt='Diagrama de la cadena de valor del turismo que muestra la interacción entre el sector público y privado en etapas como diseño, transporte, estancia y oferta motivacional, desde la planificación hasta el retorno del turista.')
-        figcaption.des Fuente: https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/
-    
+        figcaption.des Fuente: Martín, (2013). 
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         img.d-none.d-lg-block(src='@/assets/curso/tema3/1.png', alt='')
@@ -155,8 +155,7 @@
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-10
             img.mb-2(src='@/assets/curso/tema3/15.png', alt='Cuadro con elementos clave para fortalecer la cadena de valor turística: identificación de productores, canales de comercialización, relaciones entre actores, conocimiento del mercado y relaciones comerciales.')
-            figcaption.des Fuente: https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/
-          
+            figcaption.des Fuente: Martín, (2013). 
   
     .tarjeta.color-acento-contenido.p-4.mb-0
       .row.justify-content-around.align-items-center
