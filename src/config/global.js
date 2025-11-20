@@ -270,12 +270,6 @@ export default {
     },
     {
       referencia:
-        'Socatelli P. M. A. (2013). Mercadeo aplicado al turismo: La comercialización de servicios, productos y destinos turísticos sostenibles (pp. 1–4). Intermarck – Consultores en Turismo.',
-      link:
-        'https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.1.pdf',
-    },
-    {
-      referencia:
         'Turismo y Sostenibilidad. (2013). Cadena de valor en turismo.',
       link:
         'https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/',
